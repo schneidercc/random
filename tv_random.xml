@@ -1,0 +1,675 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ABC Australia">
+    <display-name lang="en">ABC Australia</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="AL  JAZEERA ARABIC">
+    <display-name lang="en">AL  JAZEERA ARABIC</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="AL  JAZEERA INTERNATIONAL">
+    <display-name lang="en">AL  JAZEERA INTERNATIONAL</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="ANHUI TV">
+    <display-name lang="en">ANHUI TV</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="ANIMAL PLANET">
+    <display-name lang="en">ANIMAL PLANET</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="ANIMAL PLANET HD">
+    <display-name lang="en">ANIMAL PLANET HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="ANIMAX">
+    <display-name lang="en">ANIMAX</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="ANIMAX HD">
+    <display-name lang="en">ANIMAX HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="ANTV">
+    <display-name lang="en">ANTV</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="ARIRANG">
+    <display-name lang="en">ARIRANG</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="ASIAN FOOD CHANNEL">
+    <display-name lang="en">ASIAN FOOD CHANNEL</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="ASIAN FOOD CHANNEL HD">
+    <display-name lang="en">ASIAN FOOD CHANNEL HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="en">AXN</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="en">AXN HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="BABY FIRST">
+    <display-name lang="en">BABY FIRST</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="BALAIKOTA BANDUNG">
+    <display-name lang="en">BALAIKOTA BANDUNG</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="BALAIKOTA BOGOR">
+    <display-name lang="en">BALAIKOTA BOGOR</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="BALAIKOTA CHANNEL">
+    <display-name lang="en">BALAIKOTA CHANNEL</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="BALAIKOTA MALANG">
+    <display-name lang="en">BALAIKOTA MALANG</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="BBC WORLD">
+    <display-name lang="en">BBC WORLD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="BBC WORLD NEWS HD">
+    <display-name lang="en">BBC WORLD NEWS HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="BERITA SATU">
+    <display-name lang="en">BERITA SATU</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="BERITA SATU HD">
+    <display-name lang="en">BERITA SATU HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="BERITA SATU SPORTS 1 HD">
+    <display-name lang="en">BERITA SATU SPORTS 1 HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="BERITA SATU WORLD">
+    <display-name lang="en">BERITA SATU WORLD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="BERITA SATU WORLD HD">
+    <display-name lang="en">BERITA SATU WORLD HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="BLOOMBERG HD">
+    <display-name lang="en">BLOOMBERG HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="BLOOMBERG TELEVISION">
+    <display-name lang="en">BLOOMBERG TELEVISION</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="CARTOON NETWORK">
+    <display-name lang="en">CARTOON NETWORK</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="CARTOON NETWORK HD">
+    <display-name lang="en">CARTOON NETWORK HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="CCTV 4">
+    <display-name lang="en">CCTV 4</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="CGTN">
+    <display-name lang="en">CGTN</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="CHANNEL [V] INTL">
+    <display-name lang="en">CHANNEL [V] INTL</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="CHANNEL NEWSASIA">
+    <display-name lang="en">CHANNEL NEWSASIA</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="CINEMAX">
+    <display-name lang="en">CINEMAX</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="CINEMAX HD">
+    <display-name lang="en">CINEMAX HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="CNBC">
+    <display-name lang="en">CNBC</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="CNN INT.HD">
+    <display-name lang="en">CNN INT.HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="CNN INTERNATIONAL">
+    <display-name lang="en">CNN INTERNATIONAL</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="COLORS">
+    <display-name lang="en">COLORS</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="DAAITV">
+    <display-name lang="en">DAAITV</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="DANGDUTZ">
+    <display-name lang="en">DANGDUTZ</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="DAVINCI HD">
+    <display-name lang="en">DAVINCI HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="DISCOVERY ASIA">
+    <display-name lang="en">DISCOVERY ASIA</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL">
+    <display-name lang="en">DISCOVERY CHANNEL</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="DISCOVERY HD">
+    <display-name lang="en">DISCOVERY HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="DISCOVERY KIDS">
+    <display-name lang="en">DISCOVERY KIDS</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="DISCOVERY SCIENCE HD">
+    <display-name lang="en">DISCOVERY SCIENCE HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="DISNEY CHANNEL">
+    <display-name lang="en">DISNEY CHANNEL</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="DISNEY HD">
+    <display-name lang="en">DISNEY HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="DISNEY JUNIOR">
+    <display-name lang="en">DISNEY JUNIOR</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="DIVA">
+    <display-name lang="en">DIVA</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="DIVA HD">
+    <display-name lang="en">DIVA HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="DMAX HD">
+    <display-name lang="en">DMAX HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="DRAGON TV">
+    <display-name lang="en">DRAGON TV</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="DW">
+    <display-name lang="en">DW</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="DW HD">
+    <display-name lang="en">DW HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="EURONEWS">
+    <display-name lang="en">EURONEWS</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="EUROSPORT">
+    <display-name lang="en">EUROSPORT</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="EUROSPORT HD">
+    <display-name lang="en">EUROSPORT HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="EVE HD">
+    <display-name lang="en">EVE HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="EWTN">
+    <display-name lang="en">EWTN</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FASHION TV">
+    <display-name lang="en">FASHION TV</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FIGHT SPORTS">
+    <display-name lang="en">FIGHT SPORTS</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FIGHT SPORTS HD">
+    <display-name lang="en">FIGHT SPORTS HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FIRST HIGHLIGHTS">
+    <display-name lang="en">FIRST HIGHLIGHTS</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FIRST LIFESTYLE">
+    <display-name lang="en">FIRST LIFESTYLE</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="en">FOX</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FOX ACTION MOVIES HD">
+    <display-name lang="en">FOX ACTION MOVIES HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FOX CRIME">
+    <display-name lang="en">FOX CRIME</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FOX CRIME HD">
+    <display-name lang="en">FOX CRIME HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FOX FAMILY MOVIES">
+    <display-name lang="en">FOX FAMILY MOVIES</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FOX FAMILY MOVIES HD">
+    <display-name lang="en">FOX FAMILY MOVIES HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="en">FOX HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="Fox Life">
+    <display-name lang="en">Fox Life</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FOX Life HD">
+    <display-name lang="en">FOX Life HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FOX MOVIES">
+    <display-name lang="en">FOX MOVIES</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FOX MOVIES HD">
+    <display-name lang="en">FOX MOVIES HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FOX NEWS CHANNEL">
+    <display-name lang="en">FOX NEWS CHANNEL</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FOX SPORTS">
+    <display-name lang="en">FOX SPORTS</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FOX SPORTS 2">
+    <display-name lang="en">FOX SPORTS 2</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FOX SPORTS 2 HD">
+    <display-name lang="en">FOX SPORTS 2 HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FOX SPORTS 3 HD">
+    <display-name lang="en">FOX SPORTS 3 HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FOX SPORTS HD">
+    <display-name lang="en">FOX SPORTS HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FOX SPORTS NEWS">
+    <display-name lang="en">FOX SPORTS NEWS</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FRANCE 24">
+    <display-name lang="en">FRANCE 24</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FYIHD">
+    <display-name lang="en">FYIHD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="GINX">
+    <display-name lang="en">GINX</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="en">HBO</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="HBO FAMILY">
+    <display-name lang="en">HBO FAMILY</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="HBO FAMILY HD">
+    <display-name lang="en">HBO FAMILY HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="en">HBO HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="HBO HITS">
+    <display-name lang="en">HBO HITS</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="HBO HITS HD">
+    <display-name lang="en">HBO HITS HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="HBO SIGNATURE">
+    <display-name lang="en">HBO SIGNATURE</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="HBO SIGNATURE HD">
+    <display-name lang="en">HBO SIGNATURE HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="HISTORY HD">
+    <display-name lang="en">HISTORY HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="HUNAN TV">
+    <display-name lang="en">HUNAN TV</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="IDX HD">
+    <display-name lang="en">IDX HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="INDOSIAR">
+    <display-name lang="en">INDOSIAR</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="JAKARTA GLOBE NEWS CHANNEL">
+    <display-name lang="en">JAKARTA GLOBE NEWS CHANNEL</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="JAKARTA GLOBE NEWS CHANNEL HD">
+    <display-name lang="en">JAKARTA GLOBE NEWS CHANNEL HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="JAK-TV">
+    <display-name lang="en">JAK-TV</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="JIANGSU TV">
+    <display-name lang="en">JIANGSU TV</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="JIM JAM">
+    <display-name lang="en">JIM JAM</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="JTV">
+    <display-name lang="en">JTV</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="KAIROS">
+    <display-name lang="en">KAIROS</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="KARAOKE">
+    <display-name lang="en">KARAOKE</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="KBS">
+    <display-name lang="en">KBS</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="KOMPAS TV">
+    <display-name lang="en">KOMPAS TV</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="LEJEL HOME SHOPPING">
+    <display-name lang="en">LEJEL HOME SHOPPING</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="LIFETIME HD">
+    <display-name lang="en">LIFETIME HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="MATRIX SHOP">
+    <display-name lang="en">MATRIX SHOP</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="MAX">
+    <display-name lang="en">MAX</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="METRO TV">
+    <display-name lang="en">METRO TV</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="MEZZO">
+    <display-name lang="en">MEZZO</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="MTV ASIA">
+    <display-name lang="en">MTV ASIA</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="MTV ASIA HD">
+    <display-name lang="en">MTV ASIA HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="MTV INDIA">
+    <display-name lang="en">MTV INDIA</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="MTV LIVE HD">
+    <display-name lang="en">MTV LIVE HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="NAT GEO PEOPLE">
+    <display-name lang="en">NAT GEO PEOPLE</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="NAT GEO PEOPLE HD">
+    <display-name lang="en">NAT GEO PEOPLE HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="NAT GEO WILD">
+    <display-name lang="en">NAT GEO WILD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="NAT GEO WILD HD">
+    <display-name lang="en">NAT GEO WILD HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="NATIONAL GEOGRAPHIC CHANNEL">
+    <display-name lang="en">NATIONAL GEOGRAPHIC CHANNEL</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="NATIONAL GEOGRAPHIC CHANNEL HD">
+    <display-name lang="en">NATIONAL GEOGRAPHIC CHANNEL HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="NET.">
+    <display-name lang="en">NET.</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="NET.TV HD">
+    <display-name lang="en">NET.TV HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="NHK WORLD">
+    <display-name lang="en">NHK WORLD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="NHK WORLD JAPAN HD">
+    <display-name lang="en">NHK WORLD JAPAN HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="NICK JR">
+    <display-name lang="en">NICK JR</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="NICKELODEON">
+    <display-name lang="en">NICKELODEON</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="O CHANNEL">
+    <display-name lang="en">O CHANNEL</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="OUTDOOR CHANNEL">
+    <display-name lang="en">OUTDOOR CHANNEL</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="PHOENIX CHINESE CHANNEL">
+    <display-name lang="en">PHOENIX CHINESE CHANNEL</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="PHOENIX INFO NEWS">
+    <display-name lang="en">PHOENIX INFO NEWS</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="RAI ITALIA">
+    <display-name lang="en">RAI ITALIA</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="REFORMED 21">
+    <display-name lang="en">REFORMED 21</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="REFORMED 21 HD">
+    <display-name lang="en">REFORMED 21 HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="Rugby Pass Tv">
+    <display-name lang="en">Rugby Pass Tv</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="S ONE">
+    <display-name lang="en">S ONE</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="S ONE HD">
+    <display-name lang="en">S ONE HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="SCTV">
+    <display-name lang="en">SCTV</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="SETANTA HD">
+    <display-name lang="en">SETANTA HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="SKY NEWS HD">
+    <display-name lang="en">SKY NEWS HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="SONY CHANNEL HD">
+    <display-name lang="en">SONY CHANNEL HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="SPH CHANNEL">
+    <display-name lang="en">SPH CHANNEL</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="Star Chinese Channel">
+    <display-name lang="en">Star Chinese Channel</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="STAR CHINESE CHANNEL HD">
+    <display-name lang="en">STAR CHINESE CHANNEL HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="STAR GOLD">
+    <display-name lang="en">STAR GOLD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="STAR PLUS">
+    <display-name lang="en">STAR PLUS</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="TBN Asia">
+    <display-name lang="en">TBN Asia</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="en">TLC</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="TLC HD">
+    <display-name lang="en">TLC HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="TRANS 7">
+    <display-name lang="en">TRANS 7</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="TRANS TV">
+    <display-name lang="en">TRANS TV</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="TV ONE">
+    <display-name lang="en">TV ONE</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="TV PARLEMEN">
+    <display-name lang="en">TV PARLEMEN</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="TV5 MONDE">
+    <display-name lang="en">TV5 MONDE</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="TVB XINGHE">
+    <display-name lang="en">TVB XINGHE</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="TVBS ASIA">
+    <display-name lang="en">TVBS ASIA</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="TVBS NEWS">
+    <display-name lang="en">TVBS NEWS</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="TVN HD">
+    <display-name lang="en">TVN HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="TVRI NASIONAL">
+    <display-name lang="en">TVRI NASIONAL</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="WAKUWAKU JAPAN">
+    <display-name lang="en">WAKUWAKU JAPAN</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="WAKUWAKU JAPAN HD">
+    <display-name lang="en">WAKUWAKU JAPAN HD</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="ZEE CINEMA">
+    <display-name lang="en">ZEE CINEMA</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="ZEE TV">
+    <display-name lang="en">ZEE TV</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+</tv>
