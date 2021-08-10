@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="FOX HD">
+    <display-name lang="tr">FOX HD</display-name>
+    <url>http://www.kablowebtv.com</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="en">FX</display-name>
+    <url>http://www.ustvnow.com</url>
+  </channel>
+  <channel id="FX (East)">
+    <display-name lang="en">FX (East)</display-name>
+    <url>http://www.ustvgo.tv</url>
+  </channel>
+  <channel id="FXX (East)">
+    <display-name lang="en">FXX (East)</display-name>
+    <url>http://www.ustvgo.tv</url>
+  </channel>
+  <channel id="Hallmark Channel (East)">
+    <display-name lang="en">Hallmark Channel (East)</display-name>
+    <url>http://www.ustvgo.tv</url>
+  </channel>
+  <channel id="Hallmark Channel (East) (HALMRK)">
+    <display-name lang="en">Hallmark Channel (East) (HALMRK)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Hallmark Movies and Mysteries HDTV (HMMHD)">
+    <display-name lang="en">Hallmark Movies and Mysteries HDTV (HMMHD)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Syfy (East)">
+    <display-name lang="en">Syfy (East)</display-name>
+    <url>http://www.ustvgo.tv</url>
+  </channel>
+  <channel id="WWE">
+    <display-name lang="en">WWE</display-name>
+    <url>http://www.wwe.com</url>
+  </channel>
+</tv>
