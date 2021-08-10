@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="FOX">
+    <display-name lang="en">FOX</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FOX CRIME">
+    <display-name lang="en">FOX CRIME</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FOX FAMILY MOVIES">
+    <display-name lang="en">FOX FAMILY MOVIES</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="Fox Life">
+    <display-name lang="en">Fox Life</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FOX MOVIES">
+    <display-name lang="en">FOX MOVIES</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="en">HBO</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="HBO FAMILY">
+    <display-name lang="en">HBO FAMILY</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="HBO HITS">
+    <display-name lang="en">HBO HITS</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="HBO SIGNATURE">
+    <display-name lang="en">HBO SIGNATURE</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="ZEE CINEMA">
+    <display-name lang="en">ZEE CINEMA</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="ZEE TV">
+    <display-name lang="en">ZEE TV</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+</tv>
