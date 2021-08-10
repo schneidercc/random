@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="FOX">
+    <display-name lang="id">FOX</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/fox_channel.png" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="FOX Action Movies">
+    <display-name lang="id">FOX Action Movies</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_16.png" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="FOX Crime">
+    <display-name lang="id">FOX Crime</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_152.png" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="FOX Family Movies">
+    <display-name lang="id">FOX Family Movies</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_15.png" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="id">FOX HD</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_437.png" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="Fox Life">
+    <display-name lang="id">Fox Life</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_156.png" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="FOX Movies">
+    <display-name lang="id">FOX Movies</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_14.png" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="FOX Movies Premium HD">
+    <display-name lang="id">FOX Movies Premium HD</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_409.png" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="id">HBO</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/hbo.png" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="HBO Family">
+    <display-name lang="id">HBO Family</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/hbo_family.png" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="HBO Hits">
+    <display-name lang="id">HBO Hits</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/hbo_hits.png" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="id">HBO Signature</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/hbo_signature.png" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="HITS">
+    <display-name lang="id">HITS</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_160.jpg" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="HITS Movies">
+    <display-name lang="id">HITS Movies</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_169.png" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <programme start="20210810152000 +0700" stop="20210810161500 +0700" channel="FOX">
+    <title lang="id">S.W.A.T.</title>
+  </programme>
+  <programme start="20210810161500 +0700" stop="20210810171000 +0700" channel="FOX">
+    <title lang="id">Elementary</title>
+  </programme>
+  <programme start="20210810171000 +0700" stop="20210810180500 +0700" channel="FOX">
+    <title lang="id">Elementary</title>
+  </programme>
+  <programme start="20210810180500 +0700" stop="20210810192000 +0700" channel="FOX">
+    <title lang="id">LEGO Masters AUS</title>
+  </programme>
+  <programme start="20210810192000 +0700" stop="20210810200000 +0700" channel="FOX">
+    <title lang="id">Intelligence</title>
+  </programme>
+  <programme start="20210810200000 +0700" stop="20210810210000 +0700" channel="FOX">
+    <title lang="id">S.W.A.T.</title>
+  </programme>
+  <programme start="20210810210000 +0700" stop="20210810215500 +0700" channel="FOX">
+    <title lang="id">NCIS</title>
+  </programme>
+  <programme start="20210810215500 +0700" stop="20210810225000 +0700" channel="FOX">
+    <title lang="id">FBI: Most Wanted</title>
+  </programme>
+  <programme start="20210810225000 +0700" stop="20210810234500 +0700" channel="FOX">
+    <title lang="id">The Walking Dead</title>
+  </programme>
+  <programme start="20210810234500 +0700" stop="20210811004000 +0700" channel="FOX">
+    <title lang="id">Elementary</title>
+  </programme>
+  <programme start="20210810143500 +0700" stop="20210810162500 +0700" channel="FOX Action Movies">
+    <title lang="id">Killerman</title>
+  </programme>
+  <programme start="20210810162500 +0700" stop="20210810175500 +0700" channel="FOX Action Movies">
+    <title lang="id">Mary</title>
+  </programme>
+  <programme start="20210810175500 +0700" stop="20210810193000 +0700" channel="FOX Action Movies">
+    <title lang="id">The Driver</title>
+  </programme>
+  <programme start="20210810193000 +0700" stop="20210810210000 +0700" channel="FOX Action Movies">
+    <title lang="id">The Assent</title>
+  </programme>
+  <programme start="20210810210000 +0700" stop="20210810223000 +0700" channel="FOX Action Movies">
+    <title lang="id">Big Freaking Rat</title>
+  </programme>
+  <programme start="20210810223000 +0700" stop="20210811001000 +0700" channel="FOX Action Movies">
+    <title lang="id">The Reunion</title>
+  </programme>
+  <programme start="20210810151500 +0700" stop="20210810160000 +0700" channel="FOX Crime">
+    <title lang="id">Monk</title>
+  </programme>
+  <programme start="20210810160000 +0700" stop="20210810164500 +0700" channel="FOX Crime">
+    <title lang="id">Monk</title>
+  </programme>
+  <programme start="20210810164500 +0700" stop="20210810173000 +0700" channel="FOX Crime">
+    <title lang="id">Psych</title>
+  </programme>
+  <programme start="20210810173000 +0700" stop="20210810181500 +0700" channel="FOX Crime">
+    <title lang="id">Psych</title>
+  </programme>
+  <programme start="20210810181500 +0700" stop="20210810190500 +0700" channel="FOX Crime">
+    <title lang="id">CSI New York</title>
+  </programme>
+  <programme start="20210810190500 +0700" stop="20210810195500 +0700" channel="FOX Crime">
+    <title lang="id">CSI New York</title>
+  </programme>
+  <programme start="20210810195500 +0700" stop="20210810204500 +0700" channel="FOX Crime">
+    <title lang="id">CSI New York</title>
+  </programme>
+  <programme start="20210810204500 +0700" stop="20210810213000 +0700" channel="FOX Crime">
+    <title lang="id">Law &amp; Order: CI</title>
+  </programme>
+  <programme start="20210810213000 +0700" stop="20210810222000 +0700" channel="FOX Crime">
+    <title lang="id">Bosch</title>
+  </programme>
+  <programme start="20210810222000 +0700" stop="20210810230500 +0700" channel="FOX Crime">
+    <title lang="id">Monk</title>
+  </programme>
+  <programme start="20210810230500 +0700" stop="20210810235000 +0700" channel="FOX Crime">
+    <title lang="id">Monk</title>
+  </programme>
+  <programme start="20210810235000 +0700" stop="20210811003500 +0700" channel="FOX Crime">
+    <title lang="id">Psych</title>
+  </programme>
+  <programme start="20210810141500 +0700" stop="20210810160000 +0700" channel="FOX Family Movies">
+    <title lang="id">Agent Cody Banks</title>
+  </programme>
+  <programme start="20210810160000 +0700" stop="20210810173500 +0700" channel="FOX Family Movies">
+    <title lang="id">To The Beat 2: Back To School</title>
+  </programme>
+  <programme start="20210810173500 +0700" stop="20210810190000 +0700" channel="FOX Family Movies">
+    <title lang="id">Bionicle: The Legend Reborn</title>
+  </programme>
+  <programme start="20210810190000 +0700" stop="20210810202500 +0700" channel="FOX Family Movies">
+    <title lang="id">Land Before Time 14: The Brave</title>
+  </programme>
+  <programme start="20210810202500 +0700" stop="20210810220000 +0700" channel="FOX Family Movies">
+    <title lang="id">Pitch Perfect 3</title>
+  </programme>
+  <programme start="20210810220000 +0700" stop="20210810233500 +0700" channel="FOX Family Movies">
+    <title lang="id">Kung Fu Panda</title>
+  </programme>
+  <programme start="20210810233500 +0700" stop="20210811010000 +0700" channel="FOX Family Movies">
+    <title lang="id">The Little Rascals</title>
+  </programme>
+  <programme start="20210810152000 +0700" stop="20210810161500 +0700" channel="FOX HD">
+    <title lang="id">S.W.A.T.</title>
+  </programme>
+  <programme start="20210810161500 +0700" stop="20210810171000 +0700" channel="FOX HD">
+    <title lang="id">Elementary</title>
+  </programme>
+  <programme start="20210810171000 +0700" stop="20210810180500 +0700" channel="FOX HD">
+    <title lang="id">Elementary</title>
+  </programme>
+  <programme start="20210810180500 +0700" stop="20210810192000 +0700" channel="FOX HD">
+    <title lang="id">LEGO Masters AUS</title>
+  </programme>
+  <programme start="20210810192000 +0700" stop="20210810200000 +0700" channel="FOX HD">
+    <title lang="id">Intelligence</title>
+  </programme>
+  <programme start="20210810200000 +0700" stop="20210810210000 +0700" channel="FOX HD">
+    <title lang="id">S.W.A.T.</title>
+  </programme>
+  <programme start="20210810210000 +0700" stop="20210810215500 +0700" channel="FOX HD">
+    <title lang="id">NCIS</title>
+  </programme>
+  <programme start="20210810215500 +0700" stop="20210810225000 +0700" channel="FOX HD">
+    <title lang="id">FBI: Most Wanted</title>
+  </programme>
+  <programme start="20210810225000 +0700" stop="20210810234500 +0700" channel="FOX HD">
+    <title lang="id">The Walking Dead</title>
+  </programme>
+  <programme start="20210810234500 +0700" stop="20210811004000 +0700" channel="FOX HD">
+    <title lang="id">Elementary</title>
+  </programme>
+  <programme start="20210810151500 +0700" stop="20210810161500 +0700" channel="Fox Life">
+    <title lang="id">The Good Fight</title>
+  </programme>
+  <programme start="20210810161500 +0700" stop="20210810171000 +0700" channel="Fox Life">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210810171000 +0700" stop="20210810180500 +0700" channel="Fox Life">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210810180500 +0700" stop="20210810190000 +0700" channel="Fox Life">
+    <title lang="id">Top Chef</title>
+  </programme>
+  <programme start="20210810190000 +0700" stop="20210810210000 +0700" channel="Fox Life">
+    <title lang="id">The Voice</title>
+  </programme>
+  <programme start="20210810210000 +0700" stop="20210810215500 +0700" channel="Fox Life">
+    <title lang="id">MasterChef: Legends</title>
+  </programme>
+  <programme start="20210810215500 +0700" stop="20210810225000 +0700" channel="Fox Life">
+    <title lang="id">New Amsterdam</title>
+  </programme>
+  <programme start="20210810225000 +0700" stop="20210810234500 +0700" channel="Fox Life">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210810234500 +0700" stop="20210811004000 +0700" channel="Fox Life">
+    <title lang="id">Kelly Clarkson Show</title>
+  </programme>
+  <programme start="20210810151000 +0700" stop="20210810165000 +0700" channel="FOX Movies">
+    <title lang="id">The First Purge</title>
+  </programme>
+  <programme start="20210810165000 +0700" stop="20210810184000 +0700" channel="FOX Movies">
+    <title lang="id">Color Out Of Space</title>
+  </programme>
+  <programme start="20210810184000 +0700" stop="20210810200000 +0700" channel="FOX Movies">
+    <title lang="id">Corporate Animals</title>
+  </programme>
+  <programme start="20210810200000 +0700" stop="20210810215500 +0700" channel="FOX Movies">
+    <title lang="id">A Beautiful Day In Neighborhood</title>
+  </programme>
+  <programme start="20210810215500 +0700" stop="20210810233000 +0700" channel="FOX Movies">
+    <title lang="id">Made In Italy</title>
+  </programme>
+  <programme start="20210810233000 +0700" stop="20210811010000 +0700" channel="FOX Movies">
+    <title lang="id">A Quiet Place</title>
+  </programme>
+  <programme start="20210810151000 +0700" stop="20210810165000 +0700" channel="FOX Movies Premium HD">
+    <title lang="id">The First Purge</title>
+  </programme>
+  <programme start="20210810165000 +0700" stop="20210810184000 +0700" channel="FOX Movies Premium HD">
+    <title lang="id">Color Out Of Space</title>
+  </programme>
+  <programme start="20210810184000 +0700" stop="20210810200000 +0700" channel="FOX Movies Premium HD">
+    <title lang="id">Corporate Animals</title>
+  </programme>
+  <programme start="20210810200000 +0700" stop="20210810215500 +0700" channel="FOX Movies Premium HD">
+    <title lang="id">A Beautiful Day In Neighborhood</title>
+  </programme>
+  <programme start="20210810215500 +0700" stop="20210810233000 +0700" channel="FOX Movies Premium HD">
+    <title lang="id">Made In Italy</title>
+  </programme>
+  <programme start="20210810233000 +0700" stop="20210811010000 +0700" channel="FOX Movies Premium HD">
+    <title lang="id">A Quiet Place</title>
+  </programme>
+  <programme start="20210810142500 +0700" stop="20210810162000 +0700" channel="HBO">
+    <title lang="id">Oslo</title>
+  </programme>
+  <programme start="20210810162000 +0700" stop="20210810183000 +0700" channel="HBO">
+    <title lang="id">Dark Waters</title>
+  </programme>
+  <programme start="20210810183000 +0700" stop="20210810200000 +0700" channel="HBO">
+    <title lang="id">The Tax Collector</title>
+  </programme>
+  <programme start="20210810200000 +0700" stop="20210810220000 +0700" channel="HBO">
+    <title lang="id">Oblivion</title>
+  </programme>
+  <programme start="20210810220000 +0700" stop="20210810232500 +0700" channel="HBO">
+    <title lang="id">Crank</title>
+  </programme>
+  <programme start="20210810232500 +0700" stop="20210811011000 +0700" channel="HBO">
+    <title lang="id">Species</title>
+  </programme>
+  <programme start="20210810153000 +0700" stop="20210810160000 +0700" channel="HBO Family">
+    <title lang="id">Weight Of The Nation</title>
+  </programme>
+  <programme start="20210810160000 +0700" stop="20210810161500 +0700" channel="HBO Family">
+    <title lang="id">The Tom &amp; Jerry Show</title>
+  </programme>
+  <programme start="20210810161500 +0700" stop="20210810163000 +0700" channel="HBO Family">
+    <title lang="id">The Tom &amp; Jerry Show</title>
+  </programme>
+  <programme start="20210810163000 +0700" stop="20210810164500 +0700" channel="HBO Family">
+    <title lang="id">The Tom &amp; Jerry Show</title>
+  </programme>
+  <programme start="20210810164500 +0700" stop="20210810170000 +0700" channel="HBO Family">
+    <title lang="id">The Tom &amp; Jerry Show</title>
+  </programme>
+  <programme start="20210810170000 +0700" stop="20210810173000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210810173000 +0700" stop="20210810180000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210810180000 +0700" stop="20210810193500 +0700" channel="HBO Family">
+    <title lang="id">Shrek The Third</title>
+  </programme>
+  <programme start="20210810193500 +0700" stop="20210810212000 +0700" channel="HBO Family">
+    <title lang="id">Imagine That</title>
+  </programme>
+  <programme start="20210810212000 +0700" stop="20210810214600 +0700" channel="HBO Family">
+    <title lang="id">Happily Ever After</title>
+  </programme>
+  <programme start="20210810214600 +0700" stop="20210810222000 +0700" channel="HBO Family">
+    <title lang="id">Happily Ever After</title>
+  </programme>
+  <programme start="20210810222000 +0700" stop="20210810224900 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210810224900 +0700" stop="20210810232000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210810232000 +0700" stop="20210810234500 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210810234500 +0700" stop="20210811001500 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20210810150000 +0700" stop="20210810164000 +0700" channel="HBO Hits">
+    <title lang="id">Nim's Island</title>
+  </programme>
+  <programme start="20210810164000 +0700" stop="20210810182000 +0700" channel="HBO Hits">
+    <title lang="id">17 Again</title>
+  </programme>
+  <programme start="20210810182000 +0700" stop="20210810195000 +0700" channel="HBO Hits">
+    <title lang="id">Run</title>
+  </programme>
+  <programme start="20210810195000 +0700" stop="20210810220000 +0700" channel="HBO Hits">
+    <title lang="id">World Trade Center</title>
+  </programme>
+  <programme start="20210810220000 +0700" stop="20210810233000 +0700" channel="HBO Hits">
+    <title lang="id">Final Destination 5</title>
+  </programme>
+  <programme start="20210810233000 +0700" stop="20210811010000 +0700" channel="HBO Hits">
+    <title lang="id">Child's Play</title>
+  </programme>
+  <programme start="20210810140000 +0700" stop="20210810153500 +0700" channel="HBO Signature">
+    <title lang="id">Heir To An Execution</title>
+  </programme>
+  <programme start="20210810153500 +0700" stop="20210810171500 +0700" channel="HBO Signature">
+    <title lang="id">Bridget Jones's Diary</title>
+  </programme>
+  <programme start="20210810171500 +0700" stop="20210810190000 +0700" channel="HBO Signature">
+    <title lang="id">Bridget Jones: Edge Of Reason</title>
+  </programme>
+  <programme start="20210810190000 +0700" stop="20210810210000 +0700" channel="HBO Signature">
+    <title lang="id">Bridget Jones's Baby</title>
+  </programme>
+  <programme start="20210810210000 +0700" stop="20210810220000 +0700" channel="HBO Signature">
+    <title lang="id">The White Lotus</title>
+  </programme>
+  <programme start="20210810220000 +0700" stop="20210810235500 +0700" channel="HBO Signature">
+    <title lang="id">Labor Day</title>
+  </programme>
+  <programme start="20210810235500 +0700" stop="20210811024500 +0700" channel="HBO Signature">
+    <title lang="id">It: Chapter 2</title>
+  </programme>
+  <programme start="20210810150000 +0700" stop="20210810155000 +0700" channel="HITS">
+    <title lang="id">Charlie's Angels</title>
+  </programme>
+  <programme start="20210810155000 +0700" stop="20210810165000 +0700" channel="HITS">
+    <title lang="id">Rich Man, Poor Man</title>
+  </programme>
+  <programme start="20210810165000 +0700" stop="20210810173000 +0700" channel="HITS">
+    <title lang="id">Fawlty Towers</title>
+  </programme>
+  <programme start="20210810173000 +0700" stop="20210810180000 +0700" channel="HITS">
+    <title lang="id">M*A*S*H</title>
+  </programme>
+  <programme start="20210810180000 +0700" stop="20210810190000 +0700" channel="HITS">
+    <title lang="id">Murder, She Wrote</title>
+  </programme>
+  <programme start="20210810190000 +0700" stop="20210810193000 +0700" channel="HITS">
+    <title lang="id">The Wonder Years</title>
+  </programme>
+  <programme start="20210810193000 +0700" stop="20210810200000 +0700" channel="HITS">
+    <title lang="id">M*A*S*H</title>
+  </programme>
+  <programme start="20210810200000 +0700" stop="20210810210000 +0700" channel="HITS">
+    <title lang="id">Rich Man, Poor Man</title>
+  </programme>
+  <programme start="20210810210000 +0700" stop="20210810214000 +0700" channel="HITS">
+    <title lang="id">Fawlty Towers</title>
+  </programme>
+  <programme start="20210810214000 +0700" stop="20210810223000 +0700" channel="HITS">
+    <title lang="id">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20210810223000 +0700" stop="20210810230000 +0700" channel="HITS">
+    <title lang="id">Small Wonder</title>
+  </programme>
+  <programme start="20210810230000 +0700" stop="20210810235000 +0700" channel="HITS">
+    <title lang="id">Murder, She Wrote</title>
+  </programme>
+  <programme start="20210810235000 +0700" stop="20210811005000 +0700" channel="HITS">
+    <title lang="id">Rich Man, Poor Man</title>
+  </programme>
+  <programme start="20210810144500 +0700" stop="20210810170000 +0700" channel="HITS Movies">
+    <title lang="id">Little Women</title>
+  </programme>
+  <programme start="20210810170000 +0700" stop="20210810190000 +0700" channel="HITS Movies">
+    <title lang="id">Stand By Me</title>
+  </programme>
+  <programme start="20210810190000 +0700" stop="20210810211500 +0700" channel="HITS Movies">
+    <title lang="id">Twister</title>
+  </programme>
+  <programme start="20210810211500 +0700" stop="20210810233000 +0700" channel="HITS Movies">
+    <title lang="id">Collateral</title>
+  </programme>
+  <programme start="20210810233000 +0700" stop="20210811013000 +0700" channel="HITS Movies">
+    <title lang="id">Stand By Me</title>
+  </programme>
+</tv>
