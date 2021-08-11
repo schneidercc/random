@@ -1,0 +1,1483 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AXN">
+    <display-name lang="id">AXN</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_axn_small.png?v=2.0.0.13&quot;  alt=&quot;AXN&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;AXN&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;AXN&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  kids&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/indikids&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logo_indikids_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Bioskop Indonesia">
+    <display-name lang="id">Bioskop Indonesia</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bioskopindonesia_small1.png?v=2.0.0.13&quot;  alt=&quot;Bioskop Indonesia&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Bioskop Indonesia&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Bioskop Indonesia&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/tvposter/bioskopindonesia.png&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  kids&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/indikids&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logo_indikids_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Blue Ant">
+    <display-name lang="id">Blue Ant</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_blueant_small.png&quot;  alt=&quot;Blue Ant&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Blue Ant&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Blue Ant&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  kids&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/indikids&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logo_indikids_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Blue Ant Extreme">
+    <display-name lang="id">Blue Ant Extreme</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_blueantext_small.png&quot;  alt=&quot;Blue Ant Extreme&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Blue Ant Extreme&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Blue Ant Extreme&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  kids&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/indikids&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logo_indikids_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Celestial Movie">
+    <display-name lang="id">Celestial Movie</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_celestialmovie_small.png&quot;  alt=&quot;Celestial Movie&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Celestial Movie&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Celestial Movie&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  kids&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/indikids&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logo_indikids_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Cinema World">
+    <display-name lang="id">Cinema World</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_cinemaworld_small.png&quot;  alt=&quot;Cinema World&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Cinema World&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Cinema World&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  kids&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/indikids&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logo_indikids_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Crime Investigation">
+    <display-name lang="id">Crime Investigation</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_crimeinvestigation_small.png&quot;  alt=&quot;Crime Investigation&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Crime Investigation&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Crime Investigation&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  kids&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/indikids&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logo_indikids_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="id">Discovery Channel</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_discovery_small.png?v=2.0.0.13&quot;  alt=&quot;Discovery Channel&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Discovery Channel&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Discovery Channel&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/tvposter/discovery.png&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  kids&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/indikids&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logo_indikids_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Flik">
+    <display-name lang="id">Flik</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_flik_small1.png?v=2.0.0.13&quot;  alt=&quot;Flik&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Flik&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Flik&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/tvposter/flik.png&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  kids&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/indikids&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logo_indikids_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Galaxy">
+    <display-name lang="id">Galaxy</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_galaxy_small1.png?v=2.0.0.13&quot;  alt=&quot;Galaxy&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Galaxy&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Galaxy&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/tvposter/galaxy.png&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  kids&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/indikids&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logo_indikids_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Galaxy Premium">
+    <display-name lang="id">Galaxy Premium</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_galaxypremium_small.png&quot;  alt=&quot;Galaxy Premium&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Galaxy Premium&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Galaxy Premium&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  kids&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/indikids&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logo_indikids_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="IMC">
+    <display-name lang="id">IMC</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_imc_small.png?v=2.0.0.13&quot;  alt=&quot;IMC&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;IMC&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;IMC&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/tvposter/imc.png&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  kids&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/indikids&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logo_indikids_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Kix">
+    <display-name lang="id">Kix</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_kix_small.png?v=2.0.0.13&quot;  alt=&quot;Kix&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Kix&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Kix&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  kids&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/indikids&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logo_indikids_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Nat Geo">
+    <display-name lang="id">Nat Geo</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_natgeo_small.png?v=2.0.0.13&quot;  alt=&quot;Nat Geo&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Nat Geo&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Nat Geo&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/tvposter/natgeoChanne.png&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  kids&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/indikids&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logo_indikids_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Nat Geo People">
+    <display-name lang="id">Nat Geo People</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_natgeopeople_small.png?v=2.0.0.13&quot;  alt=&quot;Nat Geo People&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Nat Geo People&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Nat Geo People&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/tvposter/natgeoPeople.png&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  kids&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/indikids&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logo_indikids_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Nat Geo Wild">
+    <display-name lang="id">Nat Geo Wild</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_natgeowild_small.png?v=2.0.0.13&quot;  alt=&quot;Nat Geo Wild&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Nat Geo Wild&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Nat Geo Wild&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/tvposter/natgeoWild.png&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  kids&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/indikids&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logo_indikids_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Outdoor Channel">
+    <display-name lang="id">Outdoor Channel</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_outdoor_small.png?v=1.1&quot;  alt=&quot;Outdoor Channel&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Outdoor Channel&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Outdoor Channel&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  kids&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/indikids&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logo_indikids_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Thrill">
+    <display-name lang="id">Thrill</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_thrill_small.png&quot;  alt=&quot;Thrill&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Thrill&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Thrill&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  kids&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/indikids&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logo_indikids_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="TVN Movies">
+    <display-name lang="id">TVN Movies</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_tvnmoviews_small.png&quot;  alt=&quot;TVN Movies&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;TVN Movies&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;TVN Movies&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  kids&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/indikids&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logo_indikids_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Warner">
+    <display-name lang="id">Warner</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_warner_small.png?v=2.0.0.13&quot;  alt=&quot;Warner&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Warner&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Warner&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  kids&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/indikids&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logo_indikids_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <programme start="20210811002500 +0700" stop="20210811012000 +0700" channel="AXN">
+    <title lang="id">Hawaii Five - 0 S10  -  Eps. 7 DNA</title>
+  </programme>
+  <programme start="20210811012000 +0700" stop="20210811021500 +0700" channel="AXN">
+    <title lang="id">American Ninja Warrior Junior S1  -  Eps. 14 Junior Qualifier 14</title>
+  </programme>
+  <programme start="20210811021500 +0700" stop="20210811031000 +0700" channel="AXN">
+    <title lang="id">MacGyver S5  -  Eps. 15 Abduction   Memory   Time   Fireworks   Dispersal</title>
+  </programme>
+  <programme start="20210811031000 +0700" stop="20210811040500 +0700" channel="AXN">
+    <title lang="id">American Ninja Warrior S10  -  Eps. 28 National Finals II Part 2 Of 2</title>
+  </programme>
+  <programme start="20210811040500 +0700" stop="20210811050000 +0700" channel="AXN">
+    <title lang="id">SEAL Team S4  -  Eps. 16 One Life To Live</title>
+  </programme>
+  <programme start="20210811050000 +0700" stop="20210811054500 +0700" channel="AXN">
+    <title lang="id">Blue Bloods S11  -  Eps. 1 Triumph Over Trauma</title>
+  </programme>
+  <programme start="20210811054500 +0700" stop="20210811064000 +0700" channel="AXN">
+    <title lang="id">American Ninja Warrior Junior S1  -  Eps. 13 Junior Qualifier 13</title>
+  </programme>
+  <programme start="20210811064000 +0700" stop="20210811073000 +0700" channel="AXN">
+    <title lang="id">MacGyver S5  -  Eps. 14 H20   Orthophosphates   Mission City   Corrosion   Origins</title>
+  </programme>
+  <programme start="20210811073000 +0700" stop="20210811082000 +0700" channel="AXN">
+    <title lang="id">NCIS : Los Angeles S11  -  Eps. 1 Let Fate Decide</title>
+  </programme>
+  <programme start="20210811082000 +0700" stop="20210811091000 +0700" channel="AXN">
+    <title lang="id">Hawaii Five - 0 S10  -  Eps. 7 DNA</title>
+  </programme>
+  <programme start="20210811091000 +0700" stop="20210811100000 +0700" channel="AXN">
+    <title lang="id">Blue Bloods S11  -  Eps. 1 Triumph Over Trauma</title>
+  </programme>
+  <programme start="20210811100000 +0700" stop="20210811105500 +0700" channel="AXN">
+    <title lang="id">Cyril : Simply Magic  -  Eps. 1 Singapore</title>
+  </programme>
+  <programme start="20210811105500 +0700" stop="20210811114500 +0700" channel="AXN">
+    <title lang="id">MacGyver S5  -  Eps. 14 H20   Orthophosphates   Mission City   Corrosion   Origins</title>
+  </programme>
+  <programme start="20210811114500 +0700" stop="20210811124000 +0700" channel="AXN">
+    <title lang="id">Hawaii Five - 0 S10  -  Eps. 7 DNA</title>
+  </programme>
+  <programme start="20210811124000 +0700" stop="20210811133500 +0700" channel="AXN">
+    <title lang="id">NCIS : Los Angeles S11  -  Eps. 1 Let Fate Decide</title>
+  </programme>
+  <programme start="20210811133500 +0700" stop="20210811143000 +0700" channel="AXN">
+    <title lang="id">American Ninja Warrior Junior S1  -  Eps. 13 Junior Qualifier 13</title>
+  </programme>
+  <programme start="20210811143000 +0700" stop="20210811152500 +0700" channel="AXN">
+    <title lang="id">MacGyver S5  -  Eps. 14 H20   Orthophosphates   Mission City   Corrosion   Origins</title>
+  </programme>
+  <programme start="20210811152500 +0700" stop="20210811161500 +0700" channel="AXN">
+    <title lang="id">Blue Bloods S11  -  Eps. 1 Triumph Over Trauma</title>
+  </programme>
+  <programme start="20210811161500 +0700" stop="20210811170500 +0700" channel="AXN">
+    <title lang="id">Hawaii Five - 0 S10  -  Eps. 8 That Way And This Way Shifts The Sand Of Punahoa</title>
+  </programme>
+  <programme start="20210811170500 +0700" stop="20210811180000 +0700" channel="AXN">
+    <title lang="id">Madam Secretary S6  -  Eps. 1 Hail To The Chief</title>
+  </programme>
+  <programme start="20210811180000 +0700" stop="20210811185500 +0700" channel="AXN">
+    <title lang="id">American Ninja Warrior Junior S1  -  Eps. 15 Junior Qualifier 15</title>
+  </programme>
+  <programme start="20210811185500 +0700" stop="20210811195000 +0700" channel="AXN">
+    <title lang="id">Deputy S1  -  Eps. 10 10 - 8 School Ties</title>
+  </programme>
+  <programme start="20210811195000 +0700" stop="20210811204500 +0700" channel="AXN">
+    <title lang="id">The Blacklist S8  -  Eps. 1 Roanoke</title>
+  </programme>
+  <programme start="20210811204500 +0700" stop="20210811214000 +0700" channel="AXN">
+    <title lang="id">The Rookie S3  -  Eps. 12 Brave Heart</title>
+  </programme>
+  <programme start="20210811214000 +0700" stop="20210811223500 +0700" channel="AXN">
+    <title lang="id">Blue Bloods S11  -  Eps. 2 In The Name Of The Father</title>
+  </programme>
+  <programme start="20210811223500 +0700" stop="20210811233000 +0700" channel="AXN">
+    <title lang="id">The Rookie S3  -  Eps. 12 Brave Heart</title>
+  </programme>
+  <programme start="20210811233000 +0700" stop="20210812002500 +0700" channel="AXN">
+    <title lang="id">American Ninja Warrior S10  -  Eps. 29 National Finals III Part 1 Of 2</title>
+  </programme>
+  <programme start="20210811000000 +0700" stop="20210811012000 +0700" channel="Bioskop Indonesia">
+    <title lang="id">Hilangnya Putri Kecantikan</title>
+  </programme>
+  <programme start="20210811012000 +0700" stop="20210811024000 +0700" channel="Bioskop Indonesia">
+    <title lang="id">Awas Jangan Bohong</title>
+  </programme>
+  <programme start="20210811024000 +0700" stop="20210811040000 +0700" channel="Bioskop Indonesia">
+    <title lang="id">Perjaka Di Sarang Penyamun</title>
+  </programme>
+  <programme start="20210811040000 +0700" stop="20210811052000 +0700" channel="Bioskop Indonesia">
+    <title lang="id">Azab Si Serakah Harta Warisan</title>
+  </programme>
+  <programme start="20210811052000 +0700" stop="20210811064000 +0700" channel="Bioskop Indonesia">
+    <title lang="id">Konflik Warisan Rumah Tua</title>
+  </programme>
+  <programme start="20210811064000 +0700" stop="20210811080000 +0700" channel="Bioskop Indonesia">
+    <title lang="id">Orang Sakti Penabur Cinta</title>
+  </programme>
+  <programme start="20210811080000 +0700" stop="20210811092000 +0700" channel="Bioskop Indonesia">
+    <title lang="id">Kesengsem Tukang Sedot WC</title>
+  </programme>
+  <programme start="20210811092000 +0700" stop="20210811104000 +0700" channel="Bioskop Indonesia">
+    <title lang="id">Donna Si Satpam Neraka</title>
+  </programme>
+  <programme start="20210811104000 +0700" stop="20210811120000 +0700" channel="Bioskop Indonesia">
+    <title lang="id">Petaka Gadis Pengejar Popularitas</title>
+  </programme>
+  <programme start="20210811120000 +0700" stop="20210811132000 +0700" channel="Bioskop Indonesia">
+    <title lang="id">Misteri Di Rusun 313</title>
+  </programme>
+  <programme start="20210811132000 +0700" stop="20210811144000 +0700" channel="Bioskop Indonesia">
+    <title lang="id">Karma Anak Durhaka</title>
+  </programme>
+  <programme start="20210811144000 +0700" stop="20210811160000 +0700" channel="Bioskop Indonesia">
+    <title lang="id">ABG vs Manten</title>
+  </programme>
+  <programme start="20210811160000 +0700" stop="20210811172000 +0700" channel="Bioskop Indonesia">
+    <title lang="id">Petaka Si Mulut Jahat</title>
+  </programme>
+  <programme start="20210811172000 +0700" stop="20210811184000 +0700" channel="Bioskop Indonesia">
+    <title lang="id">Pesona Semar Mesem</title>
+  </programme>
+  <programme start="20210811184000 +0700" stop="20210811200000 +0700" channel="Bioskop Indonesia">
+    <title lang="id">Mikrofon Misterius</title>
+  </programme>
+  <programme start="20210811200000 +0700" stop="20210811212000 +0700" channel="Bioskop Indonesia">
+    <title lang="id">Rahasia Kotak Musik</title>
+  </programme>
+  <programme start="20210811212000 +0700" stop="20210811224000 +0700" channel="Bioskop Indonesia">
+    <title lang="id">Nobi dan Kantong Ajaib</title>
+  </programme>
+  <programme start="20210811224000 +0700" stop="20210812000000 +0700" channel="Bioskop Indonesia">
+    <title lang="id">Toko Kr.Amat : Tikar Rogosukmo</title>
+  </programme>
+  <programme start="20210811002000 +0700" stop="20210811011500 +0700" channel="Blue Ant">
+    <title lang="id">FBI S2 - Eps. 12 Hard Decisions</title>
+  </programme>
+  <programme start="20210811011500 +0700" stop="20210811021000 +0700" channel="Blue Ant">
+    <title lang="id">Tell Me A Story - Eps. 5 Chapter 5 : Madness</title>
+  </programme>
+  <programme start="20210811021000 +0700" stop="20210811030000 +0700" channel="Blue Ant">
+    <title lang="id">First Dates S8 - Eps. 15</title>
+  </programme>
+  <programme start="20210811030000 +0700" stop="20210811040000 +0700" channel="Blue Ant">
+    <title lang="id">FBI S2 - Eps. 11 Fallout</title>
+  </programme>
+  <programme start="20210811040000 +0700" stop="20210811050000 +0700" channel="Blue Ant">
+    <title lang="id">FBI S2 - Eps. 12 Hard Decisions</title>
+  </programme>
+  <programme start="20210811050000 +0700" stop="20210811060000 +0700" channel="Blue Ant">
+    <title lang="id">Late Night With Seth Meyers S8 - Eps. 136</title>
+  </programme>
+  <programme start="20210811060000 +0700" stop="20210811070000 +0700" channel="Blue Ant">
+    <title lang="id">The Tonight Show Starring Jimmy Fallon S8 - Eps. 177</title>
+  </programme>
+  <programme start="20210811070000 +0700" stop="20210811080000 +0700" channel="Blue Ant">
+    <title lang="id">First Dates S8 - Eps. 15</title>
+  </programme>
+  <programme start="20210811080000 +0700" stop="20210811090000 +0700" channel="Blue Ant">
+    <title lang="id">FBI S2 - Eps. 10 Ties That Bind</title>
+  </programme>
+  <programme start="20210811090000 +0700" stop="20210811100000 +0700" channel="Blue Ant">
+    <title lang="id">FBI S2 - Eps. 11 Fallout</title>
+  </programme>
+  <programme start="20210811100000 +0700" stop="20210811110000 +0700" channel="Blue Ant">
+    <title lang="id">FBI S2 - Eps. 12 Hard Decisions</title>
+  </programme>
+  <programme start="20210811110000 +0700" stop="20210811120000 +0700" channel="Blue Ant">
+    <title lang="id">Tell Me A Story - Eps. 5 Chapter 5 : Madness</title>
+  </programme>
+  <programme start="20210811120000 +0700" stop="20210811125000 +0700" channel="Blue Ant">
+    <title lang="id">The Tonight Show Starring Jimmy Fallon S8 - Eps. 177</title>
+  </programme>
+  <programme start="20210811125000 +0700" stop="20210811134000 +0700" channel="Blue Ant">
+    <title lang="id">Late Night With Seth Meyers S8 - Eps. 136</title>
+  </programme>
+  <programme start="20210811134000 +0700" stop="20210811143000 +0700" channel="Blue Ant">
+    <title lang="id">First Dates S8 - Eps. 15</title>
+  </programme>
+  <programme start="20210811143000 +0700" stop="20210811152500 +0700" channel="Blue Ant">
+    <title lang="id">FBI S2 - Eps. 9 Salvation</title>
+  </programme>
+  <programme start="20210811152500 +0700" stop="20210811161500 +0700" channel="Blue Ant">
+    <title lang="id">FBI S2 - Eps. 10 Ties That Bind</title>
+  </programme>
+  <programme start="20210811161500 +0700" stop="20210811171500 +0700" channel="Blue Ant">
+    <title lang="id">FBI S2 - Eps. 11 Fallout</title>
+  </programme>
+  <programme start="20210811171500 +0700" stop="20210811181000 +0700" channel="Blue Ant">
+    <title lang="id">FBI S2 - Eps. 12 Hard Decisions</title>
+  </programme>
+  <programme start="20210811181000 +0700" stop="20210811191000 +0700" channel="Blue Ant">
+    <title lang="id">Tell Me A Story - Eps. 6 Chapter 6 : Guilt</title>
+  </programme>
+  <programme start="20210811191000 +0700" stop="20210811195000 +0700" channel="Blue Ant">
+    <title lang="id">First Dates S8 - Eps. 16</title>
+  </programme>
+  <programme start="20210811195000 +0700" stop="20210811204500 +0700" channel="Blue Ant">
+    <title lang="id">Star Trek : Discovery - Eps. 1 The Vulcan Hello</title>
+  </programme>
+  <programme start="20210811204500 +0700" stop="20210811213500 +0700" channel="Blue Ant">
+    <title lang="id">Star Trek : Discovery - Eps. 2 Battle At The Binary Stars</title>
+  </programme>
+  <programme start="20210811213500 +0700" stop="20210811223000 +0700" channel="Blue Ant">
+    <title lang="id">The Tonight Show Starring Jimmy Fallon S8 - Eps. 178</title>
+  </programme>
+  <programme start="20210811223000 +0700" stop="20210811232500 +0700" channel="Blue Ant">
+    <title lang="id">Late Night With Seth Meyers S8 - Eps. 137</title>
+  </programme>
+  <programme start="20210811232500 +0700" stop="20210812002000 +0700" channel="Blue Ant">
+    <title lang="id">Star Trek : Discovery - Eps. 1 The Vulcan Hello</title>
+  </programme>
+  <programme start="20210811000500 +0700" stop="20210811004000 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Arcade Cloud S2</title>
+  </programme>
+  <programme start="20210811004000 +0700" stop="20210811011500 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Arcade Cloud S2</title>
+  </programme>
+  <programme start="20210811011500 +0700" stop="20210811021500 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Paranormal Survivor S4</title>
+  </programme>
+  <programme start="20210811021500 +0700" stop="20210811025500 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Wisecrack</title>
+  </programme>
+  <programme start="20210811025500 +0700" stop="20210811033000 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Wisecrack</title>
+  </programme>
+  <programme start="20210811033000 +0700" stop="20210811041000 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Wisecrack</title>
+  </programme>
+  <programme start="20210811041000 +0700" stop="20210811050000 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Wisecrack</title>
+  </programme>
+  <programme start="20210811050000 +0700" stop="20210811060000 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Paranormal Survivor S4</title>
+  </programme>
+  <programme start="20210811060000 +0700" stop="20210811063000 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Arcade Cloud S2</title>
+  </programme>
+  <programme start="20210811063000 +0700" stop="20210811070000 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Arcade Cloud S2</title>
+  </programme>
+  <programme start="20210811070000 +0700" stop="20210811080000 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Wisecrack</title>
+  </programme>
+  <programme start="20210811080000 +0700" stop="20210811084000 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Wisecrack</title>
+  </programme>
+  <programme start="20210811084000 +0700" stop="20210811091500 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Wisecrack</title>
+  </programme>
+  <programme start="20210811091500 +0700" stop="20210811095500 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Wisecrack</title>
+  </programme>
+  <programme start="20210811095500 +0700" stop="20210811104500 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Wisecrack</title>
+  </programme>
+  <programme start="20210811104500 +0700" stop="20210811114000 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Paranormal Survivor S5</title>
+  </programme>
+  <programme start="20210811114000 +0700" stop="20210811123500 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Paranormal Survivor S5</title>
+  </programme>
+  <programme start="20210811123500 +0700" stop="20210811133000 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Hotel Paranormal</title>
+  </programme>
+  <programme start="20210811133000 +0700" stop="20210811142500 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Hotel Paranormal</title>
+  </programme>
+  <programme start="20210811142500 +0700" stop="20210811152000 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Ninja Warrior UK S3</title>
+  </programme>
+  <programme start="20210811152000 +0700" stop="20210811161500 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Ninja Warrior UK S3</title>
+  </programme>
+  <programme start="20210811161500 +0700" stop="20210811171000 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Ninja Warrior UK S3</title>
+  </programme>
+  <programme start="20210811171000 +0700" stop="20210811180500 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Ninja Warrior UK S3</title>
+  </programme>
+  <programme start="20210811180500 +0700" stop="20210811190000 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Walking The Americas</title>
+  </programme>
+  <programme start="20210811190000 +0700" stop="20210811195500 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Walking The Americas</title>
+  </programme>
+  <programme start="20210811195500 +0700" stop="20210811205500 +0700" channel="Blue Ant Extreme">
+    <title lang="id">From Russia to Iran: Crossing The Wild Frontier</title>
+  </programme>
+  <programme start="20210811205500 +0700" stop="20210811215500 +0700" channel="Blue Ant Extreme">
+    <title lang="id">From Russia to Iran: Crossing The Wild Frontier</title>
+  </programme>
+  <programme start="20210811215500 +0700" stop="20210811223000 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Arcade Cloud S2</title>
+  </programme>
+  <programme start="20210811223000 +0700" stop="20210811230500 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Arcade Cloud S2</title>
+  </programme>
+  <programme start="20210811230500 +0700" stop="20210812000500 +0700" channel="Blue Ant Extreme">
+    <title lang="id">Paranormal Survivor S4</title>
+  </programme>
+  <programme start="20210811003000 +0700" stop="20210811023500 +0700" channel="Celestial Movie">
+    <title lang="id">Shock Wave 2</title>
+  </programme>
+  <programme start="20210811023500 +0700" stop="20210811043500 +0700" channel="Celestial Movie">
+    <title lang="id">Office</title>
+  </programme>
+  <programme start="20210811043500 +0700" stop="20210811061000 +0700" channel="Celestial Movie">
+    <title lang="id">Binding Souls</title>
+  </programme>
+  <programme start="20210811061000 +0700" stop="20210811075500 +0700" channel="Celestial Movie">
+    <title lang="id">Temporary Family</title>
+  </programme>
+  <programme start="20210811075500 +0700" stop="20210811095500 +0700" channel="Celestial Movie">
+    <title lang="id">Im Livin It</title>
+  </programme>
+  <programme start="20210811095500 +0700" stop="20210811121500 +0700" channel="Celestial Movie">
+    <title lang="id">The Game Changer</title>
+  </programme>
+  <programme start="20210811121500 +0700" stop="20210811140000 +0700" channel="Celestial Movie">
+    <title lang="id">Chungking Express</title>
+  </programme>
+  <programme start="20210811140000 +0700" stop="20210811160000 +0700" channel="Celestial Movie">
+    <title lang="id">My Wife is a Gangster 3</title>
+  </programme>
+  <programme start="20210811160000 +0700" stop="20210811173500 +0700" channel="Celestial Movie">
+    <title lang="id">Bio Raiders</title>
+  </programme>
+  <programme start="20210811173500 +0700" stop="20210811191500 +0700" channel="Celestial Movie">
+    <title lang="id">The Incredible Monk</title>
+  </programme>
+  <programme start="20210811191500 +0700" stop="20210811210000 +0700" channel="Celestial Movie">
+    <title lang="id">Distinction</title>
+  </programme>
+  <programme start="20210811210000 +0700" stop="20210811225500 +0700" channel="Celestial Movie">
+    <title lang="id">Legally Declared Dead</title>
+  </programme>
+  <programme start="20210811225500 +0700" stop="20210812005000 +0700" channel="Celestial Movie">
+    <title lang="id">Never Too Late</title>
+  </programme>
+  <programme start="20210811012500 +0700" stop="20210811031500 +0700" channel="Cinema World">
+    <title lang="id">Chorus</title>
+  </programme>
+  <programme start="20210811031500 +0700" stop="20210811050000 +0700" channel="Cinema World">
+    <title lang="id">Mascarades</title>
+  </programme>
+  <programme start="20210811050000 +0700" stop="20210811063500 +0700" channel="Cinema World">
+    <title lang="id">A Song For Mia</title>
+  </programme>
+  <programme start="20210811063500 +0700" stop="20210811082000 +0700" channel="Cinema World">
+    <title lang="id">3000 Nights</title>
+  </programme>
+  <programme start="20210811082000 +0700" stop="20210811100000 +0700" channel="Cinema World">
+    <title lang="id">Halal For Beginners</title>
+  </programme>
+  <programme start="20210811100000 +0700" stop="20210811114000 +0700" channel="Cinema World">
+    <title lang="id">Murders In Rochefort</title>
+  </programme>
+  <programme start="20210811114000 +0700" stop="20210811133500 +0700" channel="Cinema World">
+    <title lang="id">Abbraccialo Per Me</title>
+  </programme>
+  <programme start="20210811133500 +0700" stop="20210811151000 +0700" channel="Cinema World">
+    <title lang="id">Its Your Turn Honey</title>
+  </programme>
+  <programme start="20210811151000 +0700" stop="20210811165000 +0700" channel="Cinema World">
+    <title lang="id">Murders In Hossegor</title>
+  </programme>
+  <programme start="20210811165000 +0700" stop="20210811182500 +0700" channel="Cinema World">
+    <title lang="id">That Thing Called Love</title>
+  </programme>
+  <programme start="20210811182500 +0700" stop="20210811200000 +0700" channel="Cinema World">
+    <title lang="id">A Summer in Barcelona</title>
+  </programme>
+  <programme start="20210811200000 +0700" stop="20210811214000 +0700" channel="Cinema World">
+    <title lang="id">The Devil Inside</title>
+  </programme>
+  <programme start="20210811214000 +0700" stop="20210811220000 +0700" channel="Cinema World">
+    <title lang="id">Uncle Goose Waits For A Phone Call</title>
+  </programme>
+  <programme start="20210811220000 +0700" stop="20210811234000 +0700" channel="Cinema World">
+    <title lang="id">El Mudo</title>
+  </programme>
+  <programme start="20210811234000 +0700" stop="20210812013000 +0700" channel="Cinema World">
+    <title lang="id">3000 Nights</title>
+  </programme>
+  <programme start="20210811002000 +0700" stop="20210811011500 +0700" channel="Crime Investigation">
+    <title lang="id">Beyond the Headlines : Escaping the NXIVM Cult with Gretchen Carlson</title>
+  </programme>
+  <programme start="20210811011500 +0700" stop="20210811021000 +0700" channel="Crime Investigation">
+    <title lang="id">See No Evil S5 - Eps. 8 Stalking Carl</title>
+  </programme>
+  <programme start="20210811021000 +0700" stop="20210811030500 +0700" channel="Crime Investigation">
+    <title lang="id">60 Days In S6 - Eps. 11 Special Ops</title>
+  </programme>
+  <programme start="20210811030500 +0700" stop="20210811040000 +0700" channel="Crime Investigation">
+    <title lang="id">Mark Of A Killer S1 - Eps. 2 The Last Call Killer</title>
+  </programme>
+  <programme start="20210811040000 +0700" stop="20210811050000 +0700" channel="Crime Investigation">
+    <title lang="id">Intervention : Codependent S1 - Eps. 2 Alex and Paige</title>
+  </programme>
+  <programme start="20210811050000 +0700" stop="20210811055000 +0700" channel="Crime Investigation">
+    <title lang="id">Hoarders S12 - Eps. 5 Cobra  Part 1</title>
+  </programme>
+  <programme start="20210811055000 +0700" stop="20210811064500 +0700" channel="Crime Investigation">
+    <title lang="id">Hoarders S12 - Eps. 6 Cobra  Part 2</title>
+  </programme>
+  <programme start="20210811064500 +0700" stop="20210811074000 +0700" channel="Crime Investigation">
+    <title lang="id">Fatal Vows S4 - Eps. 6 Collision Course</title>
+  </programme>
+  <programme start="20210811074000 +0700" stop="20210811083500 +0700" channel="Crime Investigation">
+    <title lang="id">60 Days In S6 - Eps. 11 Special Ops</title>
+  </programme>
+  <programme start="20210811083500 +0700" stop="20210811093000 +0700" channel="Crime Investigation">
+    <title lang="id">Mark Of A Killer S1 - Eps. 2 The Last Call Killer</title>
+  </programme>
+  <programme start="20210811093000 +0700" stop="20210811102500 +0700" channel="Crime Investigation">
+    <title lang="id">Intervention : Codependent S1 - Eps. 2 Alex and Paige</title>
+  </programme>
+  <programme start="20210811102500 +0700" stop="20210811112000 +0700" channel="Crime Investigation">
+    <title lang="id">Robbie Coltrane s Critical Evidence S2 - Eps. 5 Far From Home</title>
+  </programme>
+  <programme start="20210811112000 +0700" stop="20210811121500 +0700" channel="Crime Investigation">
+    <title lang="id">Beyond the Headlines : Escaping the NXIVM Cult with Gretchen Carlson</title>
+  </programme>
+  <programme start="20210811121500 +0700" stop="20210811131000 +0700" channel="Crime Investigation">
+    <title lang="id">See No Evil S5 - Eps. 8 Stalking Carl</title>
+  </programme>
+  <programme start="20210811131000 +0700" stop="20210811140500 +0700" channel="Crime Investigation">
+    <title lang="id">Hoarders S12 - Eps. 5 Cobra  Part 1</title>
+  </programme>
+  <programme start="20210811140500 +0700" stop="20210811150000 +0700" channel="Crime Investigation">
+    <title lang="id">Hoarders S12 - Eps. 6 Cobra  Part 2</title>
+  </programme>
+  <programme start="20210811150000 +0700" stop="20210811155500 +0700" channel="Crime Investigation">
+    <title lang="id">Fatal Vows S4 - Eps. 6 Collision Course</title>
+  </programme>
+  <programme start="20210811155500 +0700" stop="20210811164500 +0700" channel="Crime Investigation">
+    <title lang="id">60 Days In S6 - Eps. 12 Let s Talk About Mark</title>
+  </programme>
+  <programme start="20210811164500 +0700" stop="20210811182500 +0700" channel="Crime Investigation">
+    <title lang="id">Hoarders S11 - Eps. 8 Dennis</title>
+  </programme>
+  <programme start="20210811182500 +0700" stop="20210811191500 +0700" channel="Crime Investigation">
+    <title lang="id">My Crazy Ex S4 - Eps. 36 Fake Names Freaky Dames and Video Games</title>
+  </programme>
+  <programme start="20210811191500 +0700" stop="20210811200500 +0700" channel="Crime Investigation">
+    <title lang="id">Escaping Polygamy S3 - Eps. 32 Mommy Dearest</title>
+  </programme>
+  <programme start="20210811200500 +0700" stop="20210811205500 +0700" channel="Crime Investigation">
+    <title lang="id">The First 48 S24 - Eps. 449 The Abnormals</title>
+  </programme>
+  <programme start="20210811205500 +0700" stop="20210811214500 +0700" channel="Crime Investigation">
+    <title lang="id">Accused : Guilty Or Innocent S1 - Eps. 7 One Punch Assault or Self-Defense</title>
+  </programme>
+  <programme start="20210811214500 +0700" stop="20210811223500 +0700" channel="Crime Investigation">
+    <title lang="id">I Love You But I Lied S2 - Eps. 13 Fame  or  Heart</title>
+  </programme>
+  <programme start="20210811223500 +0700" stop="20210811232500 +0700" channel="Crime Investigation">
+    <title lang="id">Celebrity Ghost Stories S1 - Eps. 1 Ice-T and Coco</title>
+  </programme>
+  <programme start="20210811232500 +0700" stop="20210812002000 +0700" channel="Crime Investigation">
+    <title lang="id">The First 48 S24 - Eps. 449 The Abnormals</title>
+  </programme>
+  <programme start="20210811002500 +0700" stop="20210811011500 +0700" channel="Discovery Channel">
+    <title lang="id">Gold Rush: Freddy Dodges Mine Rescue  S1</title>
+  </programme>
+  <programme start="20210811011500 +0700" stop="20210811020500 +0700" channel="Discovery Channel">
+    <title lang="id">Alaska: The Last Frontier  S9</title>
+  </programme>
+  <programme start="20210811020500 +0700" stop="20210811023000 +0700" channel="Discovery Channel">
+    <title lang="id">How Do They Do It  S6</title>
+  </programme>
+  <programme start="20210811023000 +0700" stop="20210811025500 +0700" channel="Discovery Channel">
+    <title lang="id">How Its Made  S13</title>
+  </programme>
+  <programme start="20210811025500 +0700" stop="20210811032000 +0700" channel="Discovery Channel">
+    <title lang="id">Off The Hook: Extreme Catches  S1</title>
+  </programme>
+  <programme start="20210811032000 +0700" stop="20210811034500 +0700" channel="Discovery Channel">
+    <title lang="id">Off The Hook: Extreme Catches  S1</title>
+  </programme>
+  <programme start="20210811034500 +0700" stop="20210811043500 +0700" channel="Discovery Channel">
+    <title lang="id">Gold Rush  S3</title>
+  </programme>
+  <programme start="20210811043500 +0700" stop="20210811053500 +0700" channel="Discovery Channel">
+    <title lang="id">Gold Rush: Freddy Dodges Mine Rescue  S1</title>
+  </programme>
+  <programme start="20210811053500 +0700" stop="20210811060000 +0700" channel="Discovery Channel">
+    <title lang="id">How Do They Do It  S6</title>
+  </programme>
+  <programme start="20210811060000 +0700" stop="20210811062500 +0700" channel="Discovery Channel">
+    <title lang="id">How Its Made  S13</title>
+  </programme>
+  <programme start="20210811062500 +0700" stop="20210811065000 +0700" channel="Discovery Channel">
+    <title lang="id">Off The Hook: Extreme Catches  S1</title>
+  </programme>
+  <programme start="20210811065000 +0700" stop="20210811071500 +0700" channel="Discovery Channel">
+    <title lang="id">Off The Hook: Extreme Catches  S1</title>
+  </programme>
+  <programme start="20210811071500 +0700" stop="20210811080500 +0700" channel="Discovery Channel">
+    <title lang="id">Street Outlaws: Fastest In America  S2</title>
+  </programme>
+  <programme start="20210811080500 +0700" stop="20210811085500 +0700" channel="Discovery Channel">
+    <title lang="id">Street Outlaws  S6</title>
+  </programme>
+  <programme start="20210811085500 +0700" stop="20210811092000 +0700" channel="Discovery Channel">
+    <title lang="id">How Do They Do It  S6</title>
+  </programme>
+  <programme start="20210811092000 +0700" stop="20210811094500 +0700" channel="Discovery Channel">
+    <title lang="id">How Its Made  S13</title>
+  </programme>
+  <programme start="20210811094500 +0700" stop="20210811101000 +0700" channel="Discovery Channel">
+    <title lang="id">Off The Hook: Extreme Catches  S1</title>
+  </programme>
+  <programme start="20210811101000 +0700" stop="20210811103500 +0700" channel="Discovery Channel">
+    <title lang="id">Off The Hook: Extreme Catches  S1</title>
+  </programme>
+  <programme start="20210811103500 +0700" stop="20210811112500 +0700" channel="Discovery Channel">
+    <title lang="id">Street Outlaws: Fastest In America  S2</title>
+  </programme>
+  <programme start="20210811112500 +0700" stop="20210811121500 +0700" channel="Discovery Channel">
+    <title lang="id">Street Outlaws  S6</title>
+  </programme>
+  <programme start="20210811121500 +0700" stop="20210811130500 +0700" channel="Discovery Channel">
+    <title lang="id">Gold Rush: Parkers Trail  S4</title>
+  </programme>
+  <programme start="20210811130500 +0700" stop="20210811135500 +0700" channel="Discovery Channel">
+    <title lang="id">Gold Rush: Freddy Dodges Mine Rescue  S1</title>
+  </programme>
+  <programme start="20210811135500 +0700" stop="20210811144500 +0700" channel="Discovery Channel">
+    <title lang="id">Alaska: The Last Frontier  S9</title>
+  </programme>
+  <programme start="20210811144500 +0700" stop="20210811153500 +0700" channel="Discovery Channel">
+    <title lang="id">Manhunt With Joel Lambert  S1</title>
+  </programme>
+  <programme start="20210811153500 +0700" stop="20210811162500 +0700" channel="Discovery Channel">
+    <title lang="id">Manhunt With Joel Lambert  S1</title>
+  </programme>
+  <programme start="20210811162500 +0700" stop="20210811171500 +0700" channel="Discovery Channel">
+    <title lang="id">Manhunt With Joel Lambert  S1</title>
+  </programme>
+  <programme start="20210811171500 +0700" stop="20210811181000 +0700" channel="Discovery Channel">
+    <title lang="id">Street Outlaws: Fastest In America  S2</title>
+  </programme>
+  <programme start="20210811181000 +0700" stop="20210811190500 +0700" channel="Discovery Channel">
+    <title lang="id">Street Outlaws  S6</title>
+  </programme>
+  <programme start="20210811190500 +0700" stop="20210811200000 +0700" channel="Discovery Channel">
+    <title lang="id">Jungle Gold  S1</title>
+  </programme>
+  <programme start="20210811200000 +0700" stop="20210811205500 +0700" channel="Discovery Channel">
+    <title lang="id">Undercover Billionaire  S2</title>
+  </programme>
+  <programme start="20210811205500 +0700" stop="20210811215000 +0700" channel="Discovery Channel">
+    <title lang="id">Undercover Billionaire  S1</title>
+  </programme>
+  <programme start="20210811215000 +0700" stop="20210811224500 +0700" channel="Discovery Channel">
+    <title lang="id">Alaskan Bush People  S5</title>
+  </programme>
+  <programme start="20210811224500 +0700" stop="20210811233500 +0700" channel="Discovery Channel">
+    <title lang="id">Street Outlaws  S6</title>
+  </programme>
+  <programme start="20210811233500 +0700" stop="20210812002500 +0700" channel="Discovery Channel">
+    <title lang="id">Undercover Billionaire  S2</title>
+  </programme>
+  <programme start="20210811000000 +0700" stop="20210811020000 +0700" channel="Flik">
+    <title lang="id">The Mentalist</title>
+  </programme>
+  <programme start="20210811020000 +0700" stop="20210811040000 +0700" channel="Flik">
+    <title lang="id">Roh - The Evil Spirit</title>
+  </programme>
+  <programme start="20210811040000 +0700" stop="20210811060000 +0700" channel="Flik">
+    <title lang="id">Lukisan Berlumur Darah</title>
+  </programme>
+  <programme start="20210811060000 +0700" stop="20210811080000 +0700" channel="Flik">
+    <title lang="id">Garuda di Dadaku 2</title>
+  </programme>
+  <programme start="20210811080000 +0700" stop="20210811100000 +0700" channel="Flik">
+    <title lang="id">Koper</title>
+  </programme>
+  <programme start="20210811100000 +0700" stop="20210811120000 +0700" channel="Flik">
+    <title lang="id">Pendekar Lembah Kuning</title>
+  </programme>
+  <programme start="20210811120000 +0700" stop="20210811140000 +0700" channel="Flik">
+    <title lang="id">Pertarungan Iblis Merah</title>
+  </programme>
+  <programme start="20210811140000 +0700" stop="20210811160000 +0700" channel="Flik">
+    <title lang="id">Pesona Natalia</title>
+  </programme>
+  <programme start="20210811160000 +0700" stop="20210811180000 +0700" channel="Flik">
+    <title lang="id">Petualangan Lollypop</title>
+  </programme>
+  <programme start="20210811180000 +0700" stop="20210811200000 +0700" channel="Flik">
+    <title lang="id">Cinta Cuma Sepenggal Dusta</title>
+  </programme>
+  <programme start="20210811200000 +0700" stop="20210811220000 +0700" channel="Flik">
+    <title lang="id">Nagabonar</title>
+  </programme>
+  <programme start="20210811220000 +0700" stop="20210812000000 +0700" channel="Flik">
+    <title lang="id">Mata Tertutup</title>
+  </programme>
+  <programme start="20210811011500 +0700" stop="20210811030500 +0700" channel="Galaxy">
+    <title lang="id">Saga Curse Of The Shadow</title>
+  </programme>
+  <programme start="20210811030500 +0700" stop="20210811045000 +0700" channel="Galaxy">
+    <title lang="id">Splice</title>
+  </programme>
+  <programme start="20210811045000 +0700" stop="20210811062500 +0700" channel="Galaxy">
+    <title lang="id">My MomS New Boyfriend</title>
+  </programme>
+  <programme start="20210811062500 +0700" stop="20210811081000 +0700" channel="Galaxy">
+    <title lang="id">Twenty8K</title>
+  </programme>
+  <programme start="20210811081000 +0700" stop="20210811094500 +0700" channel="Galaxy">
+    <title lang="id">Sacrifice</title>
+  </programme>
+  <programme start="20210811094500 +0700" stop="20210811111500 +0700" channel="Galaxy">
+    <title lang="id">Missionary</title>
+  </programme>
+  <programme start="20210811111500 +0700" stop="20210811125000 +0700" channel="Galaxy">
+    <title lang="id">The Barrens</title>
+  </programme>
+  <programme start="20210811125000 +0700" stop="20210811142000 +0700" channel="Galaxy">
+    <title lang="id">Lies And Illusions</title>
+  </programme>
+  <programme start="20210811142000 +0700" stop="20210811155000 +0700" channel="Galaxy">
+    <title lang="id">Game Of Death</title>
+  </programme>
+  <programme start="20210811155000 +0700" stop="20210811173500 +0700" channel="Galaxy">
+    <title lang="id">Law Abiding Citizen</title>
+  </programme>
+  <programme start="20210811173500 +0700" stop="20210811190000 +0700" channel="Galaxy">
+    <title lang="id">Icarus</title>
+  </programme>
+  <programme start="20210811190000 +0700" stop="20210811203500 +0700" channel="Galaxy">
+    <title lang="id">Playback</title>
+  </programme>
+  <programme start="20210811203500 +0700" stop="20210811221000 +0700" channel="Galaxy">
+    <title lang="id">Hijacked</title>
+  </programme>
+  <programme start="20210811221000 +0700" stop="20210811234500 +0700" channel="Galaxy">
+    <title lang="id">The Package</title>
+  </programme>
+  <programme start="20210811234500 +0700" stop="20210812014000 +0700" channel="Galaxy">
+    <title lang="id">The Lincoln Lawyer</title>
+  </programme>
+  <programme start="20210811004000 +0700" stop="20210811022500 +0700" channel="Galaxy Premium">
+    <title lang="id">Monster Truck</title>
+  </programme>
+  <programme start="20210811022500 +0700" stop="20210811041500 +0700" channel="Galaxy Premium">
+    <title lang="id">Machete Kills</title>
+  </programme>
+  <programme start="20210811041500 +0700" stop="20210811060500 +0700" channel="Galaxy Premium">
+    <title lang="id">Arbitrage</title>
+  </programme>
+  <programme start="20210811060500 +0700" stop="20210811074000 +0700" channel="Galaxy Premium">
+    <title lang="id">Midnight In Paris</title>
+  </programme>
+  <programme start="20210811074000 +0700" stop="20210811090500 +0700" channel="Galaxy Premium">
+    <title lang="id">The Love Guru</title>
+  </programme>
+  <programme start="20210811090500 +0700" stop="20210811104500 +0700" channel="Galaxy Premium">
+    <title lang="id">Starsky And Hutch</title>
+  </programme>
+  <programme start="20210811104500 +0700" stop="20210811123000 +0700" channel="Galaxy Premium">
+    <title lang="id">The Expendables 2</title>
+  </programme>
+  <programme start="20210811123000 +0700" stop="20210811142000 +0700" channel="Galaxy Premium">
+    <title lang="id">The Road</title>
+  </programme>
+  <programme start="20210811142000 +0700" stop="20210811160500 +0700" channel="Galaxy Premium">
+    <title lang="id">Seeking Justice</title>
+  </programme>
+  <programme start="20210811160500 +0700" stop="20210811175000 +0700" channel="Galaxy Premium">
+    <title lang="id">Expatriate</title>
+  </programme>
+  <programme start="20210811175000 +0700" stop="20210811192500 +0700" channel="Galaxy Premium">
+    <title lang="id">Killing Season</title>
+  </programme>
+  <programme start="20210811192500 +0700" stop="20210811210000 +0700" channel="Galaxy Premium">
+    <title lang="id">The Joneses</title>
+  </programme>
+  <programme start="20210811210000 +0700" stop="20210811224000 +0700" channel="Galaxy Premium">
+    <title lang="id">DaddyS Home 2</title>
+  </programme>
+  <programme start="20210811224000 +0700" stop="20210812005500 +0700" channel="Galaxy Premium">
+    <title lang="id">The Butler</title>
+  </programme>
+  <programme start="20210811010000 +0700" stop="20210811022000 +0700" channel="IMC">
+    <title lang="id">Mati Muda Di Pelukan Janda</title>
+  </programme>
+  <programme start="20210811022000 +0700" stop="20210811040500 +0700" channel="IMC">
+    <title lang="id">Cintaku Di Kampus Biru</title>
+  </programme>
+  <programme start="20210811040500 +0700" stop="20210811053000 +0700" channel="IMC">
+    <title lang="id">Arwah Goyang Jupe Depe</title>
+  </programme>
+  <programme start="20210811053000 +0700" stop="20210811074000 +0700" channel="IMC">
+    <title lang="id">Heart</title>
+  </programme>
+  <programme start="20210811074000 +0700" stop="20210811093500 +0700" channel="IMC">
+    <title lang="id">Sweet 20</title>
+  </programme>
+  <programme start="20210811093500 +0700" stop="20210811111500 +0700" channel="IMC">
+    <title lang="id">The Tarix Jabrix</title>
+  </programme>
+  <programme start="20210811111500 +0700" stop="20210811130500 +0700" channel="IMC">
+    <title lang="id">Yowis Ben 2</title>
+  </programme>
+  <programme start="20210811130500 +0700" stop="20210811150500 +0700" channel="IMC">
+    <title lang="id">Hijrah Cinta</title>
+  </programme>
+  <programme start="20210811150500 +0700" stop="20210811165000 +0700" channel="IMC">
+    <title lang="id">Kuntilanak 2 2019</title>
+  </programme>
+  <programme start="20210811165000 +0700" stop="20210811182500 +0700" channel="IMC">
+    <title lang="id">Hantu Juga Selfie</title>
+  </programme>
+  <programme start="20210811182500 +0700" stop="20210811200000 +0700" channel="IMC">
+    <title lang="id">Obama Anak Menteng</title>
+  </programme>
+  <programme start="20210811200000 +0700" stop="20210811212000 +0700" channel="IMC">
+    <title lang="id">Jones : Jomblo Ngenes</title>
+  </programme>
+  <programme start="20210811212000 +0700" stop="20210811225000 +0700" channel="IMC">
+    <title lang="id">Cowok Bikin Pusing</title>
+  </programme>
+  <programme start="20210811225000 +0700" stop="20210812001000 +0700" channel="IMC">
+    <title lang="id">Darah Perawan Bulan Madu</title>
+  </programme>
+  <programme start="20210811002500 +0700" stop="20210811005500 +0700" channel="Kix">
+    <title lang="id">Car Crash TV - Eps. 409 Car Crash TV</title>
+  </programme>
+  <programme start="20210811005500 +0700" stop="20210811012500 +0700" channel="Kix">
+    <title lang="id">Car Crash TV - Eps. 410 Car Crash TV</title>
+  </programme>
+  <programme start="20210811012500 +0700" stop="20210811030500 +0700" channel="Kix">
+    <title lang="id">Warriors of the Nation</title>
+  </programme>
+  <programme start="20210811030500 +0700" stop="20210811040000 +0700" channel="Kix">
+    <title lang="id">The Ultimate BROcation - Eps. 5 The Ultimate BROcation</title>
+  </programme>
+  <programme start="20210811040000 +0700" stop="20210811052000 +0700" channel="Kix">
+    <title lang="id">Urban Cops Season 1 - Eps. 10 Urban Cops Season 1</title>
+  </programme>
+  <programme start="20210811052000 +0700" stop="20210811055000 +0700" channel="Kix">
+    <title lang="id">Car Crash TV - Eps. 409 Car Crash TV</title>
+  </programme>
+  <programme start="20210811055000 +0700" stop="20210811062000 +0700" channel="Kix">
+    <title lang="id">Car Crash TV - Eps. 410 Car Crash TV</title>
+  </programme>
+  <programme start="20210811062000 +0700" stop="20210811074000 +0700" channel="Kix">
+    <title lang="id">10 Fight 10 - Eps. 4 10 Fight 10</title>
+  </programme>
+  <programme start="20210811074000 +0700" stop="20210811081000 +0700" channel="Kix">
+    <title lang="id">Travel Man: 48 hours in... - Eps. 2 Travel Man: 48 hours in...</title>
+  </programme>
+  <programme start="20210811081000 +0700" stop="20210811090500 +0700" channel="Kix">
+    <title lang="id">The Ultimate BROcation - Eps. 2 The Ultimate BROcation</title>
+  </programme>
+  <programme start="20210811090500 +0700" stop="20210811104500 +0700" channel="Kix">
+    <title lang="id">Dragon Hero</title>
+  </programme>
+  <programme start="20210811104500 +0700" stop="20210811120500 +0700" channel="Kix">
+    <title lang="id">Yacht Expedition - Eps. 5 Yacht Expedition</title>
+  </programme>
+  <programme start="20210811120500 +0700" stop="20210811135000 +0700" channel="Kix">
+    <title lang="id">Shaolin vs Evil Dead</title>
+  </programme>
+  <programme start="20210811135000 +0700" stop="20210811141500 +0700" channel="Kix">
+    <title lang="id">Idiot TV - Eps. 104 Idiot TV</title>
+  </programme>
+  <programme start="20210811141500 +0700" stop="20210811152000 +0700" channel="Kix">
+    <title lang="id">Two Cops - Eps. 6 Two Cops</title>
+  </programme>
+  <programme start="20210811152000 +0700" stop="20210811155000 +0700" channel="Kix">
+    <title lang="id">Travel Man: 48 hours in... - Eps. 3 Travel Man: 48 hours in...</title>
+  </programme>
+  <programme start="20210811155000 +0700" stop="20210811174500 +0700" channel="Kix">
+    <title lang="id">The Big Shot</title>
+  </programme>
+  <programme start="20210811174500 +0700" stop="20210811181500 +0700" channel="Kix">
+    <title lang="id">Car Crash TV - Eps. 409 Car Crash TV</title>
+  </programme>
+  <programme start="20210811181500 +0700" stop="20210811184500 +0700" channel="Kix">
+    <title lang="id">Car Crash TV - Eps. 410 Car Crash TV</title>
+  </programme>
+  <programme start="20210811184500 +0700" stop="20210811200000 +0700" channel="Kix">
+    <title lang="id">10 Fight 10 - Eps. 5 10 Fight 10</title>
+  </programme>
+  <programme start="20210811200000 +0700" stop="20210811203000 +0700" channel="Kix">
+    <title lang="id">Trigger Happy - Eps. 1 Trigger Happy</title>
+  </programme>
+  <programme start="20210811203000 +0700" stop="20210811210000 +0700" channel="Kix">
+    <title lang="id">Trigger Happy - Eps. 2 Trigger Happy</title>
+  </programme>
+  <programme start="20210811210000 +0700" stop="20210811222000 +0700" channel="Kix">
+    <title lang="id">Yacht Expedition - Eps. 6 Yacht Expedition</title>
+  </programme>
+  <programme start="20210811222000 +0700" stop="20210812000000 +0700" channel="Kix">
+    <title lang="id">Operation Bangkok</title>
+  </programme>
+  <programme start="20210811000000 +0700" stop="20210811005500 +0700" channel="Nat Geo">
+    <title lang="id">Lost Cities With Albert Lin: Gold Rush -</title>
+  </programme>
+  <programme start="20210811005500 +0700" stop="20210811014500 +0700" channel="Nat Geo">
+    <title lang="id">Wicked Tuna: North vs South S7 Compilations - Eps. 13 Captains Roast</title>
+  </programme>
+  <programme start="20210811014500 +0700" stop="20210811023500 +0700" channel="Nat Geo">
+    <title lang="id">Air Crash Investigation - Eps. 5 Cabin Catastrophe</title>
+  </programme>
+  <programme start="20210811023500 +0700" stop="20210811032500 +0700" channel="Nat Geo">
+    <title lang="id">Inside T4: Terminal of Tomorrow -</title>
+  </programme>
+  <programme start="20210811032500 +0700" stop="20210811035000 +0700" channel="Nat Geo">
+    <title lang="id">David Roccos Dolce India - Eps. 11 Golden Amritsar</title>
+  </programme>
+  <programme start="20210811035000 +0700" stop="20210811041500 +0700" channel="Nat Geo">
+    <title lang="id">David Roccos Dolce India - Eps. 12 The Punjabi Way</title>
+  </programme>
+  <programme start="20210811041500 +0700" stop="20210811050500 +0700" channel="Nat Geo">
+    <title lang="id">Lost Cities With Albert Lin: Gold Rush -</title>
+  </programme>
+  <programme start="20210811050500 +0700" stop="20210811060000 +0700" channel="Nat Geo">
+    <title lang="id">Wicked Tuna: North vs South S7 Compilations - Eps. 13 Captains Roast</title>
+  </programme>
+  <programme start="20210811060000 +0700" stop="20210811065500 +0700" channel="Nat Geo">
+    <title lang="id">Air Crash Investigation - Eps. 5 Cabin Catastrophe</title>
+  </programme>
+  <programme start="20210811065500 +0700" stop="20210811075000 +0700" channel="Nat Geo">
+    <title lang="id">Inside T4: Terminal of Tomorrow -</title>
+  </programme>
+  <programme start="20210811075000 +0700" stop="20210811084500 +0700" channel="Nat Geo">
+    <title lang="id">Lost Cities With Albert Lin: Gold Rush -</title>
+  </programme>
+  <programme start="20210811084500 +0700" stop="20210811094000 +0700" channel="Nat Geo">
+    <title lang="id">Wicked Tuna: North vs South S7 Compilations - Eps. 13 Captains Roast</title>
+  </programme>
+  <programme start="20210811094000 +0700" stop="20210811103500 +0700" channel="Nat Geo">
+    <title lang="id">Incredibly Small World - Eps. 6</title>
+  </programme>
+  <programme start="20210811103500 +0700" stop="20210811113000 +0700" channel="Nat Geo">
+    <title lang="id">Primal Survivor - Eps. 3 Warrior Wedding</title>
+  </programme>
+  <programme start="20210811113000 +0700" stop="20210811122500 +0700" channel="Nat Geo">
+    <title lang="id">Man vs Viral - Eps. 2 Tower Block Swing</title>
+  </programme>
+  <programme start="20210811122500 +0700" stop="20210811132000 +0700" channel="Nat Geo">
+    <title lang="id">Inside Phuket Airport - Eps. 2 High Stakes</title>
+  </programme>
+  <programme start="20210811132000 +0700" stop="20210811141500 +0700" channel="Nat Geo">
+    <title lang="id">Incredibly Small World - Eps. 7</title>
+  </programme>
+  <programme start="20210811141500 +0700" stop="20210811151000 +0700" channel="Nat Geo">
+    <title lang="id">Locked Up Abroad - Eps. 7 The Cocaine Trap</title>
+  </programme>
+  <programme start="20210811151000 +0700" stop="20210811160500 +0700" channel="Nat Geo">
+    <title lang="id">The Animal Within - Eps. 3 The Speed Demons</title>
+  </programme>
+  <programme start="20210811160500 +0700" stop="20210811170000 +0700" channel="Nat Geo">
+    <title lang="id">Drain The Oceans - Eps. 3 Gulf of Mexico</title>
+  </programme>
+  <programme start="20210811170000 +0700" stop="20210811180000 +0700" channel="Nat Geo">
+    <title lang="id">Easyjet: Inside the Cockpit - Eps. 3</title>
+  </programme>
+  <programme start="20210811180000 +0700" stop="20210811190000 +0700" channel="Nat Geo">
+    <title lang="id">Inside Phuket Airport - Eps. 3 Love is in the Air</title>
+  </programme>
+  <programme start="20210811190000 +0700" stop="20210811200000 +0700" channel="Nat Geo">
+    <title lang="id">Man vs Viral - Eps. 4 Buddy vs Train</title>
+  </programme>
+  <programme start="20210811200000 +0700" stop="20210811210000 +0700" channel="Nat Geo">
+    <title lang="id">The Animal Within - Eps. 4 The Builders</title>
+  </programme>
+  <programme start="20210811210000 +0700" stop="20210811220000 +0700" channel="Nat Geo">
+    <title lang="id">Drain The Oceans - Eps. 4 Lost Worlds of The Mediterranean</title>
+  </programme>
+  <programme start="20210811220000 +0700" stop="20210811230000 +0700" channel="Nat Geo">
+    <title lang="id">Taboo - Eps. 3 Ugly</title>
+  </programme>
+  <programme start="20210811230000 +0700" stop="20210812000000 +0700" channel="Nat Geo">
+    <title lang="id">Man vs Viral - Eps. 4 Buddy vs Train</title>
+  </programme>
+  <programme start="20210811001000 +0700" stop="20210811010000 +0700" channel="Nat Geo People">
+    <title lang="id">Access 360 World Heritage - Eps. 1 Angkor Wat</title>
+  </programme>
+  <programme start="20210811010000 +0700" stop="20210811015000 +0700" channel="Nat Geo People">
+    <title lang="id">Incredible Homes - Eps. 5 New York</title>
+  </programme>
+  <programme start="20210811015000 +0700" stop="20210811024000 +0700" channel="Nat Geo People">
+    <title lang="id">Living Free With Kimi Werner - Eps. 6</title>
+  </programme>
+  <programme start="20210811024000 +0700" stop="20210811033000 +0700" channel="Nat Geo People">
+    <title lang="id">Goks Chinese Takeaway - Eps. 6 London</title>
+  </programme>
+  <programme start="20210811033000 +0700" stop="20210811042000 +0700" channel="Nat Geo People">
+    <title lang="id">Four Mums in a Boat - Eps. 1 Four Mums in a Boat</title>
+  </programme>
+  <programme start="20210811042000 +0700" stop="20210811044500 +0700" channel="Nat Geo People">
+    <title lang="id">John Torodes Malaysian Adventure - Eps. 1</title>
+  </programme>
+  <programme start="20210811044500 +0700" stop="20210811051000 +0700" channel="Nat Geo People">
+    <title lang="id">John Torodes Malaysian Adventure - Eps. 2</title>
+  </programme>
+  <programme start="20210811051000 +0700" stop="20210811060000 +0700" channel="Nat Geo People">
+    <title lang="id">George Clarkes Amazing Spaces - Eps. 5</title>
+  </programme>
+  <programme start="20210811060000 +0700" stop="20210811065000 +0700" channel="Nat Geo People">
+    <title lang="id">Ultimate Airport Dubai - Eps. 1</title>
+  </programme>
+  <programme start="20210811065000 +0700" stop="20210811071500 +0700" channel="Nat Geo People">
+    <title lang="id">Three Blue Ducks - Eps. 5 Asian Beef Salad</title>
+  </programme>
+  <programme start="20210811071500 +0700" stop="20210811074000 +0700" channel="Nat Geo People">
+    <title lang="id">Peter Kuruvita Coastal Kitchen - Eps. 5 Seafood</title>
+  </programme>
+  <programme start="20210811074000 +0700" stop="20210811080500 +0700" channel="Nat Geo People">
+    <title lang="id">Route Awakening - Eps. 5</title>
+  </programme>
+  <programme start="20210811080500 +0700" stop="20210811083000 +0700" channel="Nat Geo People">
+    <title lang="id">Heathrow - Eps. 4</title>
+  </programme>
+  <programme start="20210811083000 +0700" stop="20210811085500 +0700" channel="Nat Geo People">
+    <title lang="id">Fish of the Day - Eps. 6 Samoa</title>
+  </programme>
+  <programme start="20210811085500 +0700" stop="20210811092000 +0700" channel="Nat Geo People">
+    <title lang="id">Two Tales of China - Eps. 3 Transport</title>
+  </programme>
+  <programme start="20210811092000 +0700" stop="20210811101000 +0700" channel="Nat Geo People">
+    <title lang="id">Weekend Breaks with Gregg Wallace - Eps. 12 York</title>
+  </programme>
+  <programme start="20210811101000 +0700" stop="20210811110000 +0700" channel="Nat Geo People">
+    <title lang="id">Making it Home - Eps. 2 Ted and Shannon</title>
+  </programme>
+  <programme start="20210811110000 +0700" stop="20210811115000 +0700" channel="Nat Geo People">
+    <title lang="id">George Clarkes Amazing Spaces - Eps. 5</title>
+  </programme>
+  <programme start="20210811115000 +0700" stop="20210811124000 +0700" channel="Nat Geo People">
+    <title lang="id">Ultimate Airport Dubai - Eps. 1</title>
+  </programme>
+  <programme start="20210811124000 +0700" stop="20210811130500 +0700" channel="Nat Geo People">
+    <title lang="id">Three Blue Ducks - Eps. 5 Asian Beef Salad</title>
+  </programme>
+  <programme start="20210811130500 +0700" stop="20210811133000 +0700" channel="Nat Geo People">
+    <title lang="id">Peter Kuruvita Coastal Kitchen - Eps. 5 Seafood</title>
+  </programme>
+  <programme start="20210811133000 +0700" stop="20210811135500 +0700" channel="Nat Geo People">
+    <title lang="id">Route Awakening - Eps. 5</title>
+  </programme>
+  <programme start="20210811135500 +0700" stop="20210811142000 +0700" channel="Nat Geo People">
+    <title lang="id">Heathrow - Eps. 4</title>
+  </programme>
+  <programme start="20210811142000 +0700" stop="20210811144500 +0700" channel="Nat Geo People">
+    <title lang="id">Fish of the Day - Eps. 6 Samoa</title>
+  </programme>
+  <programme start="20210811144500 +0700" stop="20210811151000 +0700" channel="Nat Geo People">
+    <title lang="id">Two Tales of China - Eps. 3 Transport</title>
+  </programme>
+  <programme start="20210811151000 +0700" stop="20210811160000 +0700" channel="Nat Geo People">
+    <title lang="id">Weekend Breaks with Gregg Wallace - Eps. 12 York</title>
+  </programme>
+  <programme start="20210811160000 +0700" stop="20210811165000 +0700" channel="Nat Geo People">
+    <title lang="id">Making it Home - Eps. 2 Ted and Shannon</title>
+  </programme>
+  <programme start="20210811165000 +0700" stop="20210811174500 +0700" channel="Nat Geo People">
+    <title lang="id">George Clarkes Amazing Spaces - Eps. 6</title>
+  </programme>
+  <programme start="20210811174500 +0700" stop="20210811184000 +0700" channel="Nat Geo People">
+    <title lang="id">Ultimate Airport Dubai - Eps. 2</title>
+  </programme>
+  <programme start="20210811184000 +0700" stop="20210811190500 +0700" channel="Nat Geo People">
+    <title lang="id">Three Blue Ducks - Eps. 6 Dirty Duck</title>
+  </programme>
+  <programme start="20210811190500 +0700" stop="20210811193500 +0700" channel="Nat Geo People">
+    <title lang="id">Peter Kuruvita Coastal Kitchen - Eps. 6 Gourmet Community</title>
+  </programme>
+  <programme start="20210811193500 +0700" stop="20210811200000 +0700" channel="Nat Geo People">
+    <title lang="id">Route Awakening - Eps. 6</title>
+  </programme>
+  <programme start="20210811200000 +0700" stop="20210811203000 +0700" channel="Nat Geo People">
+    <title lang="id">Heathrow - Eps. 5</title>
+  </programme>
+  <programme start="20210811203000 +0700" stop="20210811205500 +0700" channel="Nat Geo People">
+    <title lang="id">Fish of the Day - Eps. 7 Samoa Part II</title>
+  </programme>
+  <programme start="20210811205500 +0700" stop="20210811212500 +0700" channel="Nat Geo People">
+    <title lang="id">Two Tales of China - Eps. 4 Toys</title>
+  </programme>
+  <programme start="20210811212500 +0700" stop="20210811215000 +0700" channel="Nat Geo People">
+    <title lang="id">Route Awakening - Eps. 1 Luoyang</title>
+  </programme>
+  <programme start="20210811215000 +0700" stop="20210811222000 +0700" channel="Nat Geo People">
+    <title lang="id">Straight To The Source - Korean Food - Eps. 1 Fresh Off the Farm</title>
+  </programme>
+  <programme start="20210811222000 +0700" stop="20210811231500 +0700" channel="Nat Geo People">
+    <title lang="id">Making it Home - Eps. 3 Josh and Rita</title>
+  </programme>
+  <programme start="20210811231500 +0700" stop="20210812001000 +0700" channel="Nat Geo People">
+    <title lang="id">George Clarkes Amazing Spaces - Eps. 6</title>
+  </programme>
+  <programme start="20210811003000 +0700" stop="20210811013000 +0700" channel="Nat Geo Wild">
+    <title lang="id">Lions: The Hunt For Survival -</title>
+  </programme>
+  <programme start="20210811013000 +0700" stop="20210811023000 +0700" channel="Nat Geo Wild">
+    <title lang="id">Thailands Wild Side - Eps. 1 The Hunting Game</title>
+  </programme>
+  <programme start="20210811023000 +0700" stop="20210811033000 +0700" channel="Nat Geo Wild">
+    <title lang="id">Thailands Wild Side - Eps. 2 The Mating Game</title>
+  </programme>
+  <programme start="20210811033000 +0700" stop="20210811043000 +0700" channel="Nat Geo Wild">
+    <title lang="id">Great Barrier Reef: A Living Treasure - Eps. 2 Coral Coast</title>
+  </programme>
+  <programme start="20210811043000 +0700" stop="20210811053000 +0700" channel="Nat Geo Wild">
+    <title lang="id">Pond Stars - Eps. 2 School of Rock</title>
+  </programme>
+  <programme start="20210811053000 +0700" stop="20210811063000 +0700" channel="Nat Geo Wild">
+    <title lang="id">Lion Battle Zone -</title>
+  </programme>
+  <programme start="20210811063000 +0700" stop="20210811073000 +0700" channel="Nat Geo Wild">
+    <title lang="id">Lions: The Hunt For Survival -</title>
+  </programme>
+  <programme start="20210811073000 +0700" stop="20210811083000 +0700" channel="Nat Geo Wild">
+    <title lang="id">Fish Tank Kings - Eps. 7 Theres A Tree In My Tank</title>
+  </programme>
+  <programme start="20210811083000 +0700" stop="20210811093000 +0700" channel="Nat Geo Wild">
+    <title lang="id">Shocking Sharks -</title>
+  </programme>
+  <programme start="20210811093000 +0700" stop="20210811103000 +0700" channel="Nat Geo Wild">
+    <title lang="id">United Vets of America - Eps. 3 Red White and Baby Blue</title>
+  </programme>
+  <programme start="20210811103000 +0700" stop="20210811113000 +0700" channel="Nat Geo Wild">
+    <title lang="id">Predator Bloodlines - Eps. 1 A Leopards Tale</title>
+  </programme>
+  <programme start="20210811113000 +0700" stop="20210811123000 +0700" channel="Nat Geo Wild">
+    <title lang="id">Fish Tank Kings - Eps. 7 Theres A Tree In My Tank</title>
+  </programme>
+  <programme start="20210811123000 +0700" stop="20210811133000 +0700" channel="Nat Geo Wild">
+    <title lang="id">Shocking Sharks -</title>
+  </programme>
+  <programme start="20210811133000 +0700" stop="20210811143000 +0700" channel="Nat Geo Wild">
+    <title lang="id">United Vets of America - Eps. 3 Red White and Baby Blue</title>
+  </programme>
+  <programme start="20210811143000 +0700" stop="20210811153000 +0700" channel="Nat Geo Wild">
+    <title lang="id">Predator Bloodlines - Eps. 1 A Leopards Tale</title>
+  </programme>
+  <programme start="20210811153000 +0700" stop="20210811163000 +0700" channel="Nat Geo Wild">
+    <title lang="id">Predator Bloodlines - Eps. 2 A Lion Legacy</title>
+  </programme>
+  <programme start="20210811163000 +0700" stop="20210811173000 +0700" channel="Nat Geo Wild">
+    <title lang="id">Extreme Animal Babies - Eps. 4 Fussy Eaters</title>
+  </programme>
+  <programme start="20210811173000 +0700" stop="20210811183000 +0700" channel="Nat Geo Wild">
+    <title lang="id">Pond Stars - Eps. 3 Big Bad Wolf</title>
+  </programme>
+  <programme start="20210811183000 +0700" stop="20210811193000 +0700" channel="Nat Geo Wild">
+    <title lang="id">United Vets of America - Eps. 3 Red White and Baby Blue</title>
+  </programme>
+  <programme start="20210811193000 +0700" stop="20210811203000 +0700" channel="Nat Geo Wild">
+    <title lang="id">United Vets of America - Eps. 4 Coming To America</title>
+  </programme>
+  <programme start="20210811203000 +0700" stop="20210811213000 +0700" channel="Nat Geo Wild">
+    <title lang="id">Africas Hunters - Eps. 1 Kimbas Rise</title>
+  </programme>
+  <programme start="20210811213000 +0700" stop="20210811223000 +0700" channel="Nat Geo Wild">
+    <title lang="id">Africas Hunters - Eps. 3 The Misfit Comes of Age</title>
+  </programme>
+  <programme start="20210811223000 +0700" stop="20210811233000 +0700" channel="Nat Geo Wild">
+    <title lang="id">Great Barrier Reef: A Living Treasure - Eps. 3 Coral Islands</title>
+  </programme>
+  <programme start="20210811233000 +0700" stop="20210812003000 +0700" channel="Nat Geo Wild">
+    <title lang="id">United Vets of America - Eps. 3 Red White and Baby Blue</title>
+  </programme>
+  <programme start="20210811000000 +0700" stop="20210811010000 +0700" channel="Outdoor Channel">
+    <title lang="id">All 4 Adventure</title>
+  </programme>
+  <programme start="20210811010000 +0700" stop="20210811013000 +0700" channel="Outdoor Channel">
+    <title lang="id">Hollywood Weapons</title>
+  </programme>
+  <programme start="20210811013000 +0700" stop="20210811020000 +0700" channel="Outdoor Channel">
+    <title lang="id">Hollywood Weapons</title>
+  </programme>
+  <programme start="20210811020000 +0700" stop="20210811030000 +0700" channel="Outdoor Channel">
+    <title lang="id">River Hunters</title>
+  </programme>
+  <programme start="20210811030000 +0700" stop="20210811040000 +0700" channel="Outdoor Channel">
+    <title lang="id">Alone</title>
+  </programme>
+  <programme start="20210811040000 +0700" stop="20210811043000 +0700" channel="Outdoor Channel">
+    <title lang="id">Close Quarter Battle</title>
+  </programme>
+  <programme start="20210811043000 +0700" stop="20210811050000 +0700" channel="Outdoor Channel">
+    <title lang="id">My Sri Lanka with Peter Kuruvita</title>
+  </programme>
+  <programme start="20210811050000 +0700" stop="20210811053000 +0700" channel="Outdoor Channel">
+    <title lang="id">Fight To Survive</title>
+  </programme>
+  <programme start="20210811053000 +0700" stop="20210811060000 +0700" channel="Outdoor Channel">
+    <title lang="id">Close Quarter Battle</title>
+  </programme>
+  <programme start="20210811060000 +0700" stop="20210811070000 +0700" channel="Outdoor Channel">
+    <title lang="id">All 4 Adventure</title>
+  </programme>
+  <programme start="20210811070000 +0700" stop="20210811073000 +0700" channel="Outdoor Channel">
+    <title lang="id">Hollywood Weapons</title>
+  </programme>
+  <programme start="20210811073000 +0700" stop="20210811080000 +0700" channel="Outdoor Channel">
+    <title lang="id">Hollywood Weapons</title>
+  </programme>
+  <programme start="20210811080000 +0700" stop="20210811090000 +0700" channel="Outdoor Channel">
+    <title lang="id">River Hunters</title>
+  </programme>
+  <programme start="20210811090000 +0700" stop="20210811100000 +0700" channel="Outdoor Channel">
+    <title lang="id">Alone</title>
+  </programme>
+  <programme start="20210811100000 +0700" stop="20210811103000 +0700" channel="Outdoor Channel">
+    <title lang="id">Close Quarter Battle</title>
+  </programme>
+  <programme start="20210811103000 +0700" stop="20210811110000 +0700" channel="Outdoor Channel">
+    <title lang="id">My Sri Lanka with Peter Kuruvita</title>
+  </programme>
+  <programme start="20210811110000 +0700" stop="20210811113000 +0700" channel="Outdoor Channel">
+    <title lang="id">Fight To Survive</title>
+  </programme>
+  <programme start="20210811113000 +0700" stop="20210811120000 +0700" channel="Outdoor Channel">
+    <title lang="id">Close Quarter Battle</title>
+  </programme>
+  <programme start="20210811120000 +0700" stop="20210811130000 +0700" channel="Outdoor Channel">
+    <title lang="id">All 4 Adventure</title>
+  </programme>
+  <programme start="20210811130000 +0700" stop="20210811133000 +0700" channel="Outdoor Channel">
+    <title lang="id">Hollywood Weapons</title>
+  </programme>
+  <programme start="20210811133000 +0700" stop="20210811140000 +0700" channel="Outdoor Channel">
+    <title lang="id">Hollywood Weapons</title>
+  </programme>
+  <programme start="20210811140000 +0700" stop="20210811150000 +0700" channel="Outdoor Channel">
+    <title lang="id">River Hunters</title>
+  </programme>
+  <programme start="20210811150000 +0700" stop="20210811160000 +0700" channel="Outdoor Channel">
+    <title lang="id">Alone</title>
+  </programme>
+  <programme start="20210811160000 +0700" stop="20210811163000 +0700" channel="Outdoor Channel">
+    <title lang="id">Close Quarter Battle</title>
+  </programme>
+  <programme start="20210811163000 +0700" stop="20210811170000 +0700" channel="Outdoor Channel">
+    <title lang="id">My Sri Lanka with Peter Kuruvita</title>
+  </programme>
+  <programme start="20210811170000 +0700" stop="20210811180000 +0700" channel="Outdoor Channel">
+    <title lang="id">Ice Pilots NWT</title>
+  </programme>
+  <programme start="20210811180000 +0700" stop="20210811183000 +0700" channel="Outdoor Channel">
+    <title lang="id">Find Me A Beach House</title>
+  </programme>
+  <programme start="20210811183000 +0700" stop="20210811190000 +0700" channel="Outdoor Channel">
+    <title lang="id">Misadventures with Josh and Mearle</title>
+  </programme>
+  <programme start="20210811190000 +0700" stop="20210811193000 +0700" channel="Outdoor Channel">
+    <title lang="id">My Sri Lanka with Peter Kuruvita</title>
+  </programme>
+  <programme start="20210811193000 +0700" stop="20210811200000 +0700" channel="Outdoor Channel">
+    <title lang="id">Boys Weekend</title>
+  </programme>
+  <programme start="20210811200000 +0700" stop="20210811203000 +0700" channel="Outdoor Channel">
+    <title lang="id">Gold Fever</title>
+  </programme>
+  <programme start="20210811203000 +0700" stop="20210811210000 +0700" channel="Outdoor Channel">
+    <title lang="id">Hollywood Weapons</title>
+  </programme>
+  <programme start="20210811210000 +0700" stop="20210811213000 +0700" channel="Outdoor Channel">
+    <title lang="id">Miss Adventures - Asia</title>
+  </programme>
+  <programme start="20210811213000 +0700" stop="20210811220000 +0700" channel="Outdoor Channel">
+    <title lang="id">4634 Perception - The Mountain Within</title>
+  </programme>
+  <programme start="20210811220000 +0700" stop="20210811230000 +0700" channel="Outdoor Channel">
+    <title lang="id">Running Wild with Bear Grylls</title>
+  </programme>
+  <programme start="20210811230000 +0700" stop="20210812000000 +0700" channel="Outdoor Channel">
+    <title lang="id">Ice Pilots NWT</title>
+  </programme>
+  <programme start="20210811005000 +0700" stop="20210811014000 +0700" channel="Thrill">
+    <title lang="id">Haunted Hospitals - Eps. 9</title>
+  </programme>
+  <programme start="20210811014000 +0700" stop="20210811031000 +0700" channel="Thrill">
+    <title lang="id">Cross</title>
+  </programme>
+  <programme start="20210811031000 +0700" stop="20210811040000 +0700" channel="Thrill">
+    <title lang="id">Paranormal 911 - Eps. 11</title>
+  </programme>
+  <programme start="20210811040000 +0700" stop="20210811054000 +0700" channel="Thrill">
+    <title lang="id">Reuni Z</title>
+  </programme>
+  <programme start="20210811054000 +0700" stop="20210811063000 +0700" channel="Thrill">
+    <title lang="id">Spides - Eps. 6</title>
+  </programme>
+  <programme start="20210811063000 +0700" stop="20210811072000 +0700" channel="Thrill">
+    <title lang="id">A Haunting S10 - Eps. 2</title>
+  </programme>
+  <programme start="20210811072000 +0700" stop="20210811085000 +0700" channel="Thrill">
+    <title lang="id">Bell Chamber</title>
+  </programme>
+  <programme start="20210811085000 +0700" stop="20210811094000 +0700" channel="Thrill">
+    <title lang="id">Haunted Hospitals - Eps. 9</title>
+  </programme>
+  <programme start="20210811094000 +0700" stop="20210811111000 +0700" channel="Thrill">
+    <title lang="id">Cross</title>
+  </programme>
+  <programme start="20210811111000 +0700" stop="20210811120000 +0700" channel="Thrill">
+    <title lang="id">Paranormal 911 - Eps. 11</title>
+  </programme>
+  <programme start="20210811120000 +0700" stop="20210811134000 +0700" channel="Thrill">
+    <title lang="id">Reuni Z</title>
+  </programme>
+  <programme start="20210811134000 +0700" stop="20210811143000 +0700" channel="Thrill">
+    <title lang="id">Spides - Eps. 6</title>
+  </programme>
+  <programme start="20210811143000 +0700" stop="20210811152000 +0700" channel="Thrill">
+    <title lang="id">A Haunting S10 - Eps. 2</title>
+  </programme>
+  <programme start="20210811152000 +0700" stop="20210811165000 +0700" channel="Thrill">
+    <title lang="id">Bell Chamber</title>
+  </programme>
+  <programme start="20210811165000 +0700" stop="20210811174000 +0700" channel="Thrill">
+    <title lang="id">Haunted Hospitals - Eps. 9</title>
+  </programme>
+  <programme start="20210811174000 +0700" stop="20210811191000 +0700" channel="Thrill">
+    <title lang="id">Cross</title>
+  </programme>
+  <programme start="20210811191000 +0700" stop="20210811200000 +0700" channel="Thrill">
+    <title lang="id">Paranormal 911 - Eps. 11</title>
+  </programme>
+  <programme start="20210811200000 +0700" stop="20210811213500 +0700" channel="Thrill">
+    <title lang="id">Encroach</title>
+  </programme>
+  <programme start="20210811213500 +0700" stop="20210811222500 +0700" channel="Thrill">
+    <title lang="id">Spides - Eps. 7</title>
+  </programme>
+  <programme start="20210811222500 +0700" stop="20210812000000 +0700" channel="Thrill">
+    <title lang="id">Mr Zombie 2</title>
+  </programme>
+  <programme start="20210811011000 +0700" stop="20210811032000 +0700" channel="TVN Movies">
+    <title lang="id">Dancing Queen</title>
+  </programme>
+  <programme start="20210811032000 +0700" stop="20210811051500 +0700" channel="TVN Movies">
+    <title lang="id">Man Of Will</title>
+  </programme>
+  <programme start="20210811051500 +0700" stop="20210811072000 +0700" channel="TVN Movies">
+    <title lang="id">The Himalayas</title>
+  </programme>
+  <programme start="20210811072000 +0700" stop="20210811091000 +0700" channel="TVN Movies">
+    <title lang="id">A Tiger In Winter</title>
+  </programme>
+  <programme start="20210811091000 +0700" stop="20210811111000 +0700" channel="TVN Movies">
+    <title lang="id">Howling</title>
+  </programme>
+  <programme start="20210811111000 +0700" stop="20210811132000 +0700" channel="TVN Movies">
+    <title lang="id">The Prison</title>
+  </programme>
+  <programme start="20210811132000 +0700" stop="20210811151000 +0700" channel="TVN Movies">
+    <title lang="id">The Sound Of A Flower</title>
+  </programme>
+  <programme start="20210811151000 +0700" stop="20210811170500 +0700" channel="TVN Movies">
+    <title lang="id">Double Patty</title>
+  </programme>
+  <programme start="20210811170500 +0700" stop="20210811190500 +0700" channel="TVN Movies">
+    <title lang="id">The Con Artists</title>
+  </programme>
+  <programme start="20210811190500 +0700" stop="20210811210000 +0700" channel="TVN Movies">
+    <title lang="id">Haeundae</title>
+  </programme>
+  <programme start="20210811210000 +0700" stop="20210811223500 +0700" channel="TVN Movies">
+    <title lang="id">The Box</title>
+  </programme>
+  <programme start="20210811223500 +0700" stop="20210812005000 +0700" channel="TVN Movies">
+    <title lang="id">Inside Men</title>
+  </programme>
+  <programme start="20210811000000 +0700" stop="20210811005000 +0700" channel="Warner">
+    <title lang="id">Race To The Scene S1 - Eps. 07 Race To Speed And Iron Man</title>
+  </programme>
+  <programme start="20210811005000 +0700" stop="20210811014000 +0700" channel="Warner">
+    <title lang="id">Lethal Weapon S3 - Eps. 15 The Spy Who Loved Me</title>
+  </programme>
+  <programme start="20210811014000 +0700" stop="20210811020500 +0700" channel="Warner">
+    <title lang="id">The Big Bang Theory S5 - Eps. 8 The Isolation Permutation</title>
+  </programme>
+  <programme start="20210811020500 +0700" stop="20210811023000 +0700" channel="Warner">
+    <title lang="id">Friends S5 - Eps. 8 The One With All The Thanksgivings</title>
+  </programme>
+  <programme start="20210811023000 +0700" stop="20210811032000 +0700" channel="Warner">
+    <title lang="id">The Flash S6 - Eps. 10 Marathon</title>
+  </programme>
+  <programme start="20210811032000 +0700" stop="20210811041000 +0700" channel="Warner">
+    <title lang="id">Gotham S1 - Eps. 2 Selina Kyle</title>
+  </programme>
+  <programme start="20210811041000 +0700" stop="20210811050000 +0700" channel="Warner">
+    <title lang="id">Lethal Weapon S3 - Eps. 15 The Spy Who Loved Me</title>
+  </programme>
+  <programme start="20210811050000 +0700" stop="20210811055000 +0700" channel="Warner">
+    <title lang="id">Race To The Scene S1 - Eps. 08 Charlies Angels 2 And Knocked Up</title>
+  </programme>
+  <programme start="20210811055000 +0700" stop="20210811064000 +0700" channel="Warner">
+    <title lang="id">Gotham S1 - Eps. 3 The Balloonman</title>
+  </programme>
+  <programme start="20210811064000 +0700" stop="20210811073000 +0700" channel="Warner">
+    <title lang="id">Blindspot S4 - Eps. 01 Hella Duplicitous</title>
+  </programme>
+  <programme start="20210811073000 +0700" stop="20210811082000 +0700" channel="Warner">
+    <title lang="id">The Flash S6 - Eps. 11 Love Is A Battlefield</title>
+  </programme>
+  <programme start="20210811082000 +0700" stop="20210811091000 +0700" channel="Warner">
+    <title lang="id">Person Of Interest S3 - Eps. 21 Beta</title>
+  </programme>
+  <programme start="20210811091000 +0700" stop="20210811100000 +0700" channel="Warner">
+    <title lang="id">Race To The Scene S1 - Eps. 08 Charlies Angels 2 And Knocked Up</title>
+  </programme>
+  <programme start="20210811100000 +0700" stop="20210811102500 +0700" channel="Warner">
+    <title lang="id">The Carbonaro Effect S5 - Eps. 15 Industrial Asphalt Sealant</title>
+  </programme>
+  <programme start="20210811102500 +0700" stop="20210811105000 +0700" channel="Warner">
+    <title lang="id">The Carbonaro Effect S5 - Eps. 16 Pineapple Breeze</title>
+  </programme>
+  <programme start="20210811105000 +0700" stop="20210811114000 +0700" channel="Warner">
+    <title lang="id">DCs Stargirl S1 - Eps. 13 Stars And S.T.R.I.P.E. Part Two</title>
+  </programme>
+  <programme start="20210811114000 +0700" stop="20210811132000 +0700" channel="Warner">
+    <title lang="id">The Nun</title>
+  </programme>
+  <programme start="20210811132000 +0700" stop="20210811141000 +0700" channel="Warner">
+    <title lang="id">Race To The Scene S1 - Eps. 08 Charlies Angels 2 And Knocked Up</title>
+  </programme>
+  <programme start="20210811141000 +0700" stop="20210811143500 +0700" channel="Warner">
+    <title lang="id">The Carbonaro Effect S5 - Eps. 15 Industrial Asphalt Sealant</title>
+  </programme>
+  <programme start="20210811143500 +0700" stop="20210811150000 +0700" channel="Warner">
+    <title lang="id">The Carbonaro Effect S5 - Eps. 16 Pineapple Breeze</title>
+  </programme>
+  <programme start="20210811150000 +0700" stop="20210811155000 +0700" channel="Warner">
+    <title lang="id">Person Of Interest S3 - Eps. 21 Beta</title>
+  </programme>
+  <programme start="20210811155000 +0700" stop="20210811164000 +0700" channel="Warner">
+    <title lang="id">The Flash S6 - Eps. 11 Love Is A Battlefield</title>
+  </programme>
+  <programme start="20210811164000 +0700" stop="20210811173000 +0700" channel="Warner">
+    <title lang="id">Gotham S1 - Eps. 3 The Balloonman</title>
+  </programme>
+  <programme start="20210811173000 +0700" stop="20210811182000 +0700" channel="Warner">
+    <title lang="id">Person Of Interest S3 - Eps. 21 Beta</title>
+  </programme>
+  <programme start="20210811182000 +0700" stop="20210811184500 +0700" channel="Warner">
+    <title lang="id">The Big Bang Theory S5 - Eps. 9 The Ornithophobia Diffusion</title>
+  </programme>
+  <programme start="20210811184500 +0700" stop="20210811191000 +0700" channel="Warner">
+    <title lang="id">Friends S5 - Eps. 9 The One With Rosss Sandwich</title>
+  </programme>
+  <programme start="20210811191000 +0700" stop="20210811193500 +0700" channel="Warner">
+    <title lang="id">The Carbonaro Effect S5 - Eps. 15 Industrial Asphalt Sealant</title>
+  </programme>
+  <programme start="20210811193500 +0700" stop="20210811200000 +0700" channel="Warner">
+    <title lang="id">The Carbonaro Effect S5 - Eps. 16 Pineapple Breeze</title>
+  </programme>
+  <programme start="20210811200000 +0700" stop="20210811205000 +0700" channel="Warner">
+    <title lang="id">DCs Stargirl S2 - Eps. 1 Summer School: Chapter One</title>
+  </programme>
+  <programme start="20210811205000 +0700" stop="20210811214000 +0700" channel="Warner">
+    <title lang="id">Superman And Lois S1 - Eps. 14 The Eradicator</title>
+  </programme>
+  <programme start="20210811214000 +0700" stop="20210811223000 +0700" channel="Warner">
+    <title lang="id">DCs Stargirl S2 - Eps. 1 Summer School: Chapter One</title>
+  </programme>
+  <programme start="20210811223000 +0700" stop="20210811232000 +0700" channel="Warner">
+    <title lang="id">Superman And Lois S1 - Eps. 14 The Eradicator</title>
+  </programme>
+  <programme start="20210811232000 +0700" stop="20210811234500 +0700" channel="Warner">
+    <title lang="id">The Big Bang Theory S5 - Eps. 9 The Ornithophobia Diffusion</title>
+  </programme>
+  <programme start="20210811234500 +0700" stop="20210812001000 +0700" channel="Warner">
+    <title lang="id">Friends S5 - Eps. 9 The One With Rosss Sandwich</title>
+  </programme>
+</tv>
